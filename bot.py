@@ -3,14 +3,20 @@ import random
 import logging
 import asyncio
 import os
+from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-# --- НАСТРОЙКИ ---
-TOKEN = "8562059881:AAGZk5nCQIvR8eD0yIGPPsRU13amsg37sjw"
+# --- ЗАГРУЗКА ОКРУЖЕНИЯ ---
+load_dotenv()  # Эта функция ищет файл .env и загружает переменные из него
+TOKEN = os.environ["TOKEN"]  # Достаем токен из окружения
+
+# На всякий случай проверяем, загрузился ли токен
+if not TOKEN:
+    exit("Ошибка: BOT_TOKEN не найден в файле .env")
 
 logging.basicConfig(level=logging.INFO)
 
