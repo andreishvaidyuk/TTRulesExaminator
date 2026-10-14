@@ -1,1202 +1,1442 @@
 [
   {
     "id": 1,
-    "text": "According to the rules, what does it mean to 'strike' the ball?",
+    "text": "When the players change ends after the first game of a match, X says that the light from a window is shining into his eyes and asks for the match to be moved to the next table, which is not in use. The umpire should",
     "options": [
-      "To touch the ball with any part of the body above the waist.",
-      "To touch the ball with the racket held in the hand or with the racket hand below the wrist.",
-      "To touch the ball only with the authorized playing surface of the rubber.",
-      "Any contact with the ball that results in it crossing the net."
+      "report to the referee immediately",
+      "move to the adjacent table, provided the umpire considers that the request is justified",
+      "reject the request, but report to the referee after the match",
+      "reject the request because there was no protest during the previous game"
     ],
-    "correct": "To touch the ball with the racket held in the hand or with the racket hand below the wrist.",
-    "note": "Rule 2.5.7: A player strikes the ball if he or she touches it with the racket held in the hand or with the racket hand below the wrist."
+    "correct": "report to the referee immediately",
+    "note": "Rule 3.3.1.2.10: The referee is responsible for deciding the acceptability of playing conditions."
   },
   {
     "id": 2,
-    "text": "At what exact moment is the ball considered 'in play'?",
+    "text": "The blade of the racket",
     "options": [
-      "From the moment the ball is tossed from the hand.",
-      "From the moment the racket strikes the ball during service.",
-      "From the last moment the ball is stationary on the palm of the free hand before being intentionally projected in service.",
-      "From the moment the ball touches the server's side of the table."
+      "must be flat and rigid and not more than 4mm thick",
+      "can be covered on a side used for striking the ball with sandwich rubber, with pimples in or out",
+      "must be covered on both sides with sandwich or pimpled rubber, with one side black and the other bright red",
+      "can be covered on a side used for striking the ball with pimpled rubber, with pimples in or out"
     ],
-    "correct": "From the last moment the ball is stationary on the palm of the free hand before being intentionally projected in service.",
-    "note": "Rule 2.5.2: The ball is in play from the last moment at which it is stationary on the palm of the free hand before being intentionally projected in service."
+    "correct": "can be covered on a side used for striking the ball with sandwich rubber, with pimples in or out",
+    "note": "Rule 2.4.1 / 2.4.3: There is no law regarding blade thickness; the blade doesn't have to be covered on both sides with rubber; pimpled rubber can only have pimples outward."
   },
   {
     "id": 3,
-    "text": "If the ball accidentally rolls off the server's palm before they attempt to toss it, is a point awarded to the opponent?",
+    "text": "For international competitions",
     "options": [
-      "Yes, it is a service failure.",
-      "No, as the ball was not yet 'in play'.",
-      "A 'Let' is declared.",
-      "The server receives a formal warning."
+      "players are suggested to leave their rackets on the table between games",
+      "players are normally permitted to take their rackets with them between games",
+      "players can take their rackets with them between games only with the permission of the umpire",
+      "players must leave their rackets on the table between games"
     ],
-    "correct": "No, as the ball was not yet 'in play'.",
-    "note": "Rule 10.2: The ball is not in play until the intentional toss begins."
+    "correct": "players can take their rackets with them between games only with the permission of the umpire",
+    "note": "Rule 3.4.2.5: Unless otherwise authorised by the umpire, players shall leave their rackets on the table during intervals."
   },
   {
     "id": 4,
-    "text": "What is defined as an 'obstruction'?",
+    "text": "A's racket makes a strange sound as he strikes the ball and on inspection it is found that there is a crack in the blade. The umpire should",
     "options": [
-      "When a player touches the net during a rally.",
-      "When a player, or anything he or she wears or carries, touches the ball in play when it is above or travelling towards the playing surface, not having touched his or her court since last being struck by the opponent.",
-      "When a player shouts during a point.",
-      "When the ball touches the ceiling."
+      "allow A a few minutes to get another racket from the changing room",
+      "report to the referee",
+      "allow A to continue playing with the cracked racket since he says he has no other racket with him",
+      "require A to replace his racket immediately; report to the referee if A refuses"
     ],
-    "correct": "When a player, or anything he or she wears or carries, touches the ball in play when it is above or travelling towards the playing surface, not having touched his or her court since last being struck by the opponent.",
-    "note": "Rule 2.5.8: Definition of obstruction."
+    "correct": "require A to replace his racket immediately; report to the referee if A refuses",
+    "note": "Rule 3.4.2.4: Since the blade is cracked it is no longer legal and must be replaced. It is not necessary to call the referee unless the player has no other racket immediately available."
   },
   {
     "id": 5,
-    "text": "What is the standard height of the net above the playing surface?",
+    "text": "The striking surface of the racket may be",
     "options": [
-      "15 cm",
-      "15.25 cm",
-      "16 cm",
-      "17.25 cm"
+      "covered with sandwich rubber, with pimples inward or outward, with a total thickness of sandwich rubber and adhesive being no more than 4 mm",
+      "covered with pimpled rubber, with pimples inward or outward, with a total thickness of rubber and adhesive being no more than 2 mm",
+      "plain wood, dark in colour, either naturally or by being stained but not painted",
+      "two of the other three answers presented are correct"
     ],
-    "correct": "15.25 cm",
-    "note": "Rule 2.2.3: The top of the net, along its whole length, shall be 15.25cm above the playing surface."
+    "correct": "covered with sandwich rubber, with pimples inward or outward, with a total thickness of sandwich rubber and adhesive being no more than 4 mm",
+    "note": "Rule 2.4.3: Pimpled rubber can only have pimples outward; the striking surface has to be covered with rubber."
   },
   {
     "id": 6,
-    "text": "What is the minimum height the ball must be tossed during service?",
+    "text": "At the start of the fourth individual match of a team match, the player enters the court with his spare racket and informs the umpire that he wants to use his spare racket instead of the racket used in his previous match. The umpire should",
     "options": [
-      "10 cm",
-      "16 cm",
-      "20 cm",
-      "Any height"
+      "allow the player to use his spare racket and collect it after that match for racket testing in the Call Area or Racket Control Centre",
+      "not allow the player to use the spare racket because it was not tested in the Call Area prior to the start of the team match",
+      "not allow the player to use the spare racket because he can only replace his first racket if it is accidentally damaged so badly during the last match and can no longer be used",
+      "call the referee"
     ],
-    "correct": "16 cm",
-    "note": "Rule 10.3: The ball shall be tossed at least 16cm high."
+    "correct": "allow the player to use his spare racket and collect it after that match for racket testing in the Call Area or Racket Control Centre",
+    "note": "Rule 3.4.2.4 refers to an individual match; players are allowed to change their racket during a team match."
   },
   {
     "id": 7,
-    "text": "Can a player use a racket that is slightly smaller than the standard size?",
+    "text": "Player X brings his racket to the Call Area before the start of his match. Both sides of his racket are covered with sandwich rubber. On checking the coverings, you find that the red covering is not in the LARC. The umpire should",
     "options": [
-      "No, the size is strictly fixed.",
-      "Yes, the racket may be of any size, shape or weight.",
-      "Only for children's competitions.",
-      "Only if the opponent agrees."
+      "not allow the racket to be used because one of the coverings is not in the LARC",
+      "allow the racket to be used but only if the black side is used for striking the ball",
+      "disqualify the player",
+      "allow X to use the racket if his opponent has no objection"
     ],
-    "correct": "Yes, the racket may be of any size, shape or weight.",
-    "note": "Rule 2.4.1: The racket may be of any size, shape or weight but the blade shall be flat and rigid."
+    "correct": "not allow the racket to be used because one of the coverings is not in the LARC",
+    "note": "Rule 3.2.1.3: Any ordinary pimpled rubber or sandwich rubber covering the racket shall be currently authorised by the ITTF."
   },
   {
     "id": 8,
-    "text": "At least what percentage of the blade thickness must be of natural wood?",
+    "text": "When they arrive for a doubles match, X/Y are wearing blue shirts, but A's is red, and B's is yellow. A/B say that they are from different Associations and that each is wearing his Association's designated colour. The umpire should",
     "options": [
-      "50%",
-      "75%",
-      "85%",
-      "100%"
+      "insist that A and B wear shirts of the same colour",
+      "report to the referee",
+      "allow them to wear different-coloured shirts anyway",
+      "allow them to wear different-coloured shirts as they are from different Associations"
     ],
-    "correct": "85%",
-    "note": "Rule 2.4.2: At least 85% of the blade by thickness shall be of natural wood."
+    "correct": "allow them to wear different-coloured shirts anyway",
+    "note": "Rule 3.2.2.7: Uniform dress is required only for team matches and for doubles pairs of the same Association in World, Olympic or Paralympic Title Competitions. Otherwise there is no requirement, so any reference to Association is irrelevant."
   },
   {
     "id": 9,
-    "text": "Is it allowed to strike the ball with the side of the racket blade that is not covered with rubber?",
+    "text": "A protests that a watch X is wearing is so shiny that it is distracting him. X says that he wore the same watch in 3 earlier matches, and no one complained. The umpire should",
     "options": [
-      "Yes, if it's natural wood.",
-      "No, the ball must be struck only with the playing surface.",
-      "Yes, but only in defensive play.",
-      "Only if the rubber fell off during the point."
+      "ask X to remove or cover the watch whether he considers the protest is justified",
+      "ask X to remove or cover the watch if he considers the protest justified",
+      "reject the protest as the watch has been worn in previous matches without protest",
+      "report to the referee immediately"
     ],
-    "correct": "No, the ball must be struck only with the playing surface.",
-    "note": "Rule 2.4.5: A side of the blade used for striking the ball shall be covered with authorized rubber."
+    "correct": "ask X to remove or cover the watch whether he considers the protest is justified",
+    "note": "HMO 8.4.7: The umpire should ask for brightly reflecting items to be covered or removed. If refused, the matter must be reported to the referee, whether or not the umpire supports the protest."
   },
   {
     "id": 10,
-    "text": "What color must the racket surfaces be?",
+    "text": "A's shirt is red. X initially wears a dark blue shirt, but he comes to the table for the 3rd game in a green shirt, saying that the blue one is too wet to wear and that he has no other spare shirt with him. The umpire should",
     "options": [
-      "Both must be red.",
-      "One side must be black and the other must be a bright color clearly distinguishable from black and the color of the ball.",
-      "Both must be black.",
-      "Any color as long as they are different."
+      "insist that X continue playing in the blue shirt",
+      "allow X to wear the green shirt, provided the Competition Manager agrees to the change of colour",
+      "allow X to wear the green shirt, because its colour is still sufficiently different from that of A's",
+      "report to the referee"
     ],
-    "correct": "One side must be black and the other must be a bright color clearly distinguishable from black and the color of the ball.",
-    "note": "Rule 2.4.6: One side shall be black and the other shall be bright red (or other approved bright colors)."
+    "correct": "allow X to wear the green shirt, because its colour is still sufficiently different from that of A's",
+    "note": "HMO 8.1.6: If a player has to change a shirt during a match, the new shirt does not have to be the same colour, but must still comply with the clothing rules."
   },
   {
     "id": 11,
-    "text": "During service, where must the ball be located relative to the table surface?",
+    "text": "Which of the following playing clothing is not allowed?",
     "options": [
-      "Below the table level.",
-      "Above the level of the playing surface.",
-      "At the same level as the net.",
-      "It doesn't matter."
+      "light blue shirt without sleeves",
+      "orange shirt with white sleeves if playing with white balls",
+      "one-part sports outfit",
+      "green shirt with an advertisement for the local cigarette company on the sleeve"
     ],
-    "correct": "Above the level of the playing surface.",
-    "note": "Rule 10.4: From the start of service until it is struck, the ball shall be above the level of the playing surface."
+    "correct": "green shirt with an advertisement for the local cigarette company on the sleeve",
+    "note": "Rule 3.2.5.1.1: Advertisements on playing clothing shall not be for tobacco goods."
   },
   {
     "id": 12,
-    "text": "During service, where must the ball be relative to the server's end line?",
+    "text": "How many advertisements are allowed on the front, side or shoulder of a player's shirt?",
     "options": [
-      "Behind the end line.",
-      "In front of the end line.",
-      "Exactly on the end line.",
-      "It can be anywhere."
+      "4 within a total area of 400 cm²",
+      "4 within a total area of 600 cm²",
+      "6 within a total area of 400 cm²",
+      "6 within a total area of 600 cm²"
     ],
-    "correct": "Behind the end line.",
-    "note": "Rule 10.4: The ball shall be behind the server's end line."
+    "correct": "6 within a total area of 600 cm²",
+    "note": "Rule 3.2.5.9.2: Not more than 6 clearly separated advertisements, within a combined total area of 600 cm², on the front, side or shoulder of a shirt."
   },
   {
     "id": 13,
-    "text": "When is a 'Let' declared during service?",
+    "text": "Two players from different Associations are to play doubles together at an Open International Tournament and each has his own advisor during their match. Which of the following statements is true?",
     "options": [
-      "If the ball touches the net and then touches the opponent's court.",
-      "If the ball touches the net and falls out of bounds.",
-      "If the ball hits the opponent's paddle.",
-      "If the server misses the ball completely."
+      "the two players should wear similar coloured shirts",
+      "the two players should each wear their own Association's uniform",
+      "if the advisor of one player is warned for illegal advice, this warning applies to the advisor of the other player as well",
+      "each advisor can advise his player only"
     ],
-    "correct": "If the ball touches the net and then touches the opponent's court.",
-    "note": "Rule 2.9.1.1: If in service the ball touches the net assembly, provided the service is otherwise correct."
+    "correct": "if the advisor of one player is warned for illegal advice, this warning applies to the advisor of the other player as well",
+    "note": "Rule 3.5.1.2: Where the players of a doubles pair are from different Associations each may designate an adviser, but with regard to 3.5.1 and 3.5.2 these two advisers shall be treated as a unit."
   },
   {
     "id": 14,
-    "text": "In doubles, who must serve first in each game after the first?",
+    "text": "At the start of a match, the winner of the toss can",
     "options": [
-      "The same person who served first in the previous game.",
-      "The player who was receiving from the first server in the previous game.",
-      "The captain of the team decides.",
-      "The player with the highest ranking."
+      "choose an end, after which the opponent must serve first",
+      "ask the opponent to serve first",
+      "ask the opponent to make the first choice",
+      "ask the opponent to serve first and the opponent can then choose an end"
     ],
-    "correct": "The player who was receiving from the first server in the previous game.",
-    "note": "Rule 2.13.5: In each game of a doubles match, the first server shall be the player who received from the first server in the preceding game."
+    "correct": "ask the opponent to serve first and the opponent can then choose an end",
+    "note": "Rule 2.13.2: When one player or pair has chosen to serve or to receive first or to start at a particular end, the other player or pair shall have the other choice."
   },
   {
     "id": 15,
-    "text": "When does the 'Expedite System' come into effect?",
+    "text": "The ends of the net shall",
     "options": [
-      "After 10 minutes of play in a game, unless both players have scored at least 9 points.",
-      "After 15 minutes of play.",
-      "If the umpire decides the play is too slow.",
-      "At the request of the spectators."
+      "be attached to the supporting posts from top to bottom",
+      "be as close as possible to the supporting posts",
+      "be as close as possible to the supporting posts so that the gap between the net and the post is not more than 20mm",
+      "be well supported"
     ],
-    "correct": "After 10 minutes of play in a game, unless both players have scored at least 9 points.",
-    "note": "Rule 2.15.1: The expedite system shall come into operation after 10 minutes' play or at any time when requested by both players or pairs."
+    "correct": "be attached to the supporting posts from top to bottom",
+    "note": "Rule 2.2.4: The ends of the net shall be attached to the supporting posts from top to bottom."
   },
   {
     "id": 16,
-    "text": "Under the Expedite System, how many successful returns must the receiver make to win the point?",
+    "text": "As A runs around the side of the table to return a ball which bounces near the net, he trips and falls to the floor. His body on the floor prevents X from reaching the ball and X does not make a good return. The umpire should",
     "options": [
-      "10",
-      "12",
-      "13",
-      "15"
+      "award a point to A because X did not make a good return",
+      "award a point to X because A prevented him from making a good return",
+      "declare a let because A would be unable to continue owing to the accident",
+      "declare a let because A accidentally prevented X from making a good return"
     ],
-    "correct": "13",
-    "note": "Rule 2.15.4: If the receiver makes 13 good returns, the server loses the point."
+    "correct": "declare a let because A accidentally prevented X from making a good return",
+    "note": "Rule 2.9.1.3: The rally shall be a let if failure to make a service or a return is due to a disturbance outside the control of the player."
   },
   {
     "id": 17,
-    "text": "Is a player allowed to touch the playing surface with their free hand during a rally?",
+    "text": "X makes a good return and then stumbles and drops his racket. To steady himself, he rests the hand with which he had held the racket on the playing surface but does not move the table. A's return misses the table. The umpire should",
     "options": [
-      "Yes.",
-      "No, they lose the point.",
-      "Only if they don't move the table.",
-      "Only if they are falling."
+      "award a point to A because X touched the playing surface with his free hand",
+      "take no action because the playing surface was not moved",
+      "award a point to A because X touched the playing surface with his racket hand",
+      "award a point to X because A did not make a good return"
     ],
-    "correct": "No, they lose the point.",
-    "note": "Rule 2.10.1.11: A point is awarded if a player's free hand touches the playing surface."
+    "correct": "award a point to A because X touched the playing surface with his free hand",
+    "note": "Rule 2.10.1.11 / 2.5.6: The free hand is the hand not carrying the racket. In this case both hands of player X were free hands."
   },
   {
     "id": 18,
-    "text": "What happens if the ball touches a player's shirt during a rally?",
+    "text": "In doubles X served to A in the first game. At the start of the 2nd game, B serves to X and successive good returns are made by X and A. Y's next return misses the table and it is then realized that the order of server and receiver is wrong. The umpire should",
     "options": [
-      "Play continues.",
-      "The player loses the point.",
-      "It's a Let.",
-      "The opponent receives a warning."
+      "award a point to A/B, because Y's return was not good, and continue with A serving to X",
+      "award a point to X/Y, because the wrong player served, and continue with A serving to X",
+      "award a point to A/B, because Y's return was not good, and continue with B serving to Y",
+      "declare a let, because the wrong player served, and continue with B serving to Y"
     ],
-    "correct": "The player loses the point.",
-    "note": "Rule 2.10.1.5: If a player, or anything he wears or carries, touches the ball in play (obstruction)."
+    "correct": "award a point to A/B, because Y's return was not good, and continue with B serving to Y",
+    "note": "Rule 2.14.3: All points scored before the discovery of an error shall be reckoned. Rule 2.14.1: Play continues in the order chosen by the pair having the right to serve first in the game during which the error is discovered."
   },
   {
     "id": 19,
-    "text": "What is the diameter of a standard table tennis ball?",
+    "text": "In the first game of a singles match, player A was given a warning for misbehaviour. In the second game, just as A was about to serve with the score at 8-1, A misbehaved again. Who is to serve next?",
     "options": [
-      "38 mm",
-      "40 mm",
-      "42 mm",
-      "44 mm"
+      "A to continue serving with the score at 8-1",
+      "A to continue serving with the score at 8-2",
+      "X to serve with the score at 2-8",
+      "X to serve with the score at 3-8"
     ],
-    "correct": "40 mm",
-    "note": "Rule 2.3.1: The ball shall be spherical, with a diameter of 40mm."
+    "correct": "X to serve with the score at 2-8",
+    "note": "Rule 2.13.3: X is awarded 1 penalty point making the score 8-2, at which score it is X's turn to serve."
   },
   {
     "id": 20,
-    "text": "What is the weight of a standard table tennis ball?",
+    "text": "A, a left-handed shake-hand player often holds the racket with both hands when making a backhand return. During a rally, as A makes a backhand return whilst holding the racket with both hands, his right hand touches the playing surface. The umpire should",
     "options": [
-      "2.5 g",
-      "2.7 g",
-      "3.0 g",
-      "2.9 g"
+      "call 'let' and tell A that he cannot play with both hands holding the racket",
+      "call 'stop' and award a point to X, and tell A that he cannot play with both hands holding the racket",
+      "call 'stop' and award a point to X because A's free hand touched the table",
+      "take no action"
     ],
-    "correct": "2.7 g",
-    "note": "Rule 2.3.2: The ball shall weigh 2.7g."
+    "correct": "take no action",
+    "note": "Rule 2.5.5: Holding the racket with both hands is allowable; both hands are then racket hands, so A has no free hand, the return is good and play continues."
   },
   {
     "id": 21,
-    "text": "What is the required length of the table?",
+    "text": "In doubles, with the score at 7-6, it is realized that A, who has been serving to Y, should have been serving to X at that stage. Neither the umpire nor the players can remember when the error occurred, although they know the server was changed at score 5-5. The umpire should",
     "options": [
-      "2.5 m",
-      "2.74 m",
-      "3.0 m",
-      "2.8 m"
+      "continue match at 5-5 with A serving to X",
+      "continue match at existing score with A serving to X",
+      "continue match at existing score with A still serving to Y",
+      "replay game in which error was discovered and use correct serving sequence"
     ],
-    "correct": "2.74 m",
-    "note": "Rule 2.1.1: The playing surface shall be rectangular, 2.74m long."
+    "correct": "continue match at existing score with A serving to X",
+    "note": "Rule 2.14.3: All points scored before the discovery of an error shall be reckoned. Rule 2.14.1: Play continues with the correct order for the game in which the error is discovered."
   },
   {
     "id": 22,
-    "text": "What is the required width of the table?",
+    "text": "At the start of a doubles match, A serves to X. When the score is 6-4 in the 5th and final game, who should be serving to whom?",
     "options": [
-      "1.5 m",
-      "1.525 m",
-      "1.6 m",
-      "1.45 m"
+      "A serves to X",
+      "Y serves to B",
+      "X serves to A or Y serves to B",
+      "A serves to Y or B serves to X"
     ],
-    "correct": "1.525 m",
-    "note": "Rule 2.1.1: The playing surface shall be 1.525m wide."
+    "correct": "X serves to A or Y serves to B",
+    "note": "In the 5th game either A served to X or B served to Y first. At 6-4 either X or Y is serving, and since it is the final game, the receiver changed when X/Y scored 5 points."
   },
   {
     "id": 23,
-    "text": "What height must the playing surface be above the floor?",
+    "text": "In an individual event, A's advisor signals for a time-out but A says he doesn't want one. The umpire should",
     "options": [
-      "70 cm",
-      "76 cm",
-      "80 cm",
-      "75 cm"
+      "allow a time-out of up to one minute, and A is not entitled to another time-out",
+      "not allow the time-out because the player has the final decision",
+      "allow a time-out, and because A is ready to play, the time-out is over immediately",
+      "allow the time-out and permit X to receive advice for not more than one minute"
     ],
-    "correct": "76 cm",
-    "note": "Rule 2.1.1: The playing surface shall lie in a horizontal plane 76cm above the floor."
+    "correct": "not allow the time-out because the player has the final decision",
+    "note": "Rule 3.4.4.2.2: If a player and an adviser disagree whether a time-out is to be taken, the final decision is made by the player or pair in an individual event and by the captain in a team event."
   },
   {
     "id": 24,
-    "text": "In doubles, where must the serve land?",
+    "text": "In an individual event a time-out",
     "options": [
-      "Anywhere on the opponent's side.",
-      "Only in the receiver's right half-court.",
-      "Only in the receiver's left half-court.",
-      "It must hit the center line."
+      "can be claimed once in a match by each player or pair, but not in the 1st game",
+      "can be called between games or between rallies in a game",
+      "can be claimed only by a player or pair and not by an advisor",
+      "can be called only between rallies in a game"
     ],
-    "correct": "Only in the receiver's right half-court.",
-    "note": "Rule 2.6.3: In doubles, the ball shall touch successively the right half court of server and receiver."
+    "correct": "can be called only between rallies in a game",
+    "note": "Rule 3.4.4.2.3: The request for a time-out can be made only between rallies in a game."
   },
   {
     "id": 25,
-    "text": "How many points are needed to win a standard game?",
+    "text": "The referee may authorize a suspension",
     "options": [
-      "11 (with a 2-point lead)",
-      "15",
-      "21",
-      "10"
+      "if a player is injured, but in no case may the suspension be longer than 10 minutes",
+      "if a player is injured, a suspension will normally not exceed 10 minutes but may be extended until all blood has been removed, even if it takes longer than 10 minutes",
+      "if a player is exhausted as a result of strenuous/exhausting play",
+      "if a player accidentally breaks his racket, he will be allowed not more than 10 minutes to repair it or find a replacement racket"
     ],
-    "correct": "11 (with a 2-point lead)",
-    "note": "Rule 2.11.1: A game shall be won by the player or pair first scoring 11 points unless both score 10 points."
+    "correct": "if a player is injured, a suspension will normally not exceed 10 minutes but may be extended until all blood has been removed, even if it takes longer than 10 minutes",
+    "note": "Rule 3.4.4.6: If anyone in the playing area is bleeding, play shall be suspended immediately and shall not resume until that person has received medical treatment and all traces of blood have been removed."
   },
   {
     "id": 26,
-    "text": "How many serves does each player take before switching?",
+    "text": "After 4 closely fought games, the match score is 2-2 (2 games each). In the fifth game, A complains of dizziness brought on by his exertions/physical efforts in the match and asks for a suspension. The umpire should",
     "options": [
-      "5 serves",
-      "2 serves",
-      "1 serve",
-      "Depends on the score"
+      "stop the game and get medical attention for A, with the stoppage not to exceed 10 minutes",
+      "inform A that if he does not resume play immediately, the referee would be called and he could forfeit the match",
+      "report this to the referee",
+      "grant an emergency suspension of play, not to exceed 10 minutes"
     ],
-    "correct": "2 serves",
-    "note": "Rule 2.13.3: After each 2 points have been scored the receiving player or pair shall become the serving player or pair."
+    "correct": "inform A that if he does not resume play immediately, the referee would be called and he could forfeit the match",
+    "note": "Rule 3.4.4.5: A suspension shall not be allowed for a disability due to the normal stress of play; cramp or exhaustion caused by the player's fitness or the manner in which play has proceeded does not justify an emergency suspension."
   },
   {
     "id": 27,
-    "text": "What happens if the score reaches 10-10?",
+    "text": "If a player is bleeding during a match, the umpire should",
     "options": [
-      "Players switch service every 1 point.",
-      "Players switch service every 2 points.",
-      "The game ends at 11.",
-      "The game ends at 15."
+      "allow the injured player to rest for five minutes only",
+      "suspend the play until the injured player is treated by a medical official",
+      "let the match continue if the player says that he wants to finish the game as soon as possible",
+      "suspend play immediately until all traces of blood have been removed"
     ],
-    "correct": "Players switch service every 1 point.",
-    "note": "Rule 2.13.3: If both players score 10 points, the sequences of serving and receiving shall be the same but each player shall serve for only 1 point in turn."
+    "correct": "suspend play immediately until all traces of blood have been removed",
+    "note": "Rule 3.4.4.6: If anyone in the playing area is bleeding, play shall be suspended immediately and shall not resume until that person has received medical treatment and all traces of blood have been removed from the playing area."
   },
   {
     "id": 28,
-    "text": "Who chooses the initial order of serving, receiving, and ends?",
+    "text": "In a team match consisting of 4 singles and one doubles matches, B, after playing the previous singles match, asks for 10 minutes break before he plays in the doubles match, which is next. The umpire should",
     "options": [
-      "The Umpire.",
-      "The winner of a lot (toss).",
-      "The higher-ranked player.",
-      "The home team."
+      "allow him 5 minutes whether the opponents agree",
+      "require him to play without delay because play must be continuous",
+      "allow him 10 minutes if the opponents agree",
+      "call for the referee"
     ],
-    "correct": "The winner of a lot (toss).",
-    "note": "Rule 2.13.1: The right to choose the initial order of serving, receiving and ends shall be decided by lot."
+    "correct": "allow him 5 minutes whether the opponents agree",
+    "note": "Rule 3.4.4.3: A player who is required to play in successive matches of a team match may claim an interval of up to 5 minutes between those matches."
   },
   {
     "id": 29,
-    "text": "In the last game of a match, when do players switch ends?",
+    "text": "During an individual match play is continuous except for",
     "options": [
-      "They don't switch.",
-      "When one player scores 5 points.",
-      "When one player scores 6 points.",
-      "Every 2 points."
+      "an interval of 2 minutes between successive games",
+      "an interval of 1 minute between successive games",
+      "an interval of 5 minutes between the 3rd and 4th games in a match of the best of 5, and 1 minute between other successive games",
+      "an interval of 1 minute between successive games and other authorised intervals"
     ],
-    "correct": "When one player scores 5 points.",
-    "note": "Rule 2.14.2: In the last possible game of a match, the players shall change ends when first 5 points are scored by one player or pair."
+    "correct": "an interval of 1 minute between successive games and other authorised intervals",
+    "note": "Rule 3.4.4.1.1: an interval of up to 1 minute between successive games; Rule 3.4.4.1.2: brief intervals for towelling after every 6 points and at the change of ends in the last possible game. Option b is only partially correct."
   },
   {
     "id": 30,
-    "text": "What is the Umpire's primary duty?",
+    "text": "After every 6 points players are entitled to a brief interval for towelling. The assistant umpire, who is keeping time, should",
     "options": [
-      "To coach the players.",
-      "To control the match and decide each rally.",
-      "To clean the floor.",
-      "To sell tickets."
+      "take no action as the towel break is part of the playing time of a game",
+      "stop the watch as the towel break is not part of the playing time of a game",
+      "stop the watch, if she is of the opinion that the players are taking long towel breaks",
+      "comply with the referee's decision, which he or she will announce at the briefing before start of the tournament"
     ],
-    "correct": "To control the match and decide each rally.",
-    "note": "Rule 3.3.2: The umpire shall be appointed to control each match."
+    "correct": "stop the watch as the towel break is not part of the playing time of a game",
+    "note": "HMO Appendix A 14: Start the timer as the first player serves, stop, and re-start it for substantial breaks in play, such as time spent for towelling."
   },
   {
     "id": 31,
-    "text": "Who is responsible for the overall conduct of a tournament?",
+    "text": "In a singles match played under very hot and humid conditions, player A (who wears spectacles) several times requests short breaks to dry his glasses with his towel. The umpire should",
     "options": [
-      "The Umpire.",
-      "The Referee.",
-      "The Assistant Umpire.",
-      "The Captain."
+      "allow the short breaks as player A is entitled to dry his glasses whenever necessary",
+      "request player A to dry his glasses with his shirt only, except during the 6-points towelling break, so as not to delay the game",
+      "not allow the short breaks as play must be continuous",
+      "examine the spectacles himself to decide whether player A's glasses need to be dried or not"
     ],
-    "correct": "The Referee.",
-    "note": "Rule 3.3.1: For a whole competition, a referee shall be appointed."
+    "correct": "allow the short breaks as player A is entitled to dry his glasses whenever necessary",
+    "note": "HMO 13.3.2: Spectacle wearers can have particular problems, especially in hot conditions, and the umpire may allow them short breaks for cleaning between any rallies."
   },
   {
     "id": 32,
-    "text": "Is a player allowed to change their racket during a match?",
+    "text": "Which of the following statements is correct?",
     "options": [
-      "Yes, anytime.",
-      "No, unless it is accidentally damaged and cannot be used.",
-      "Only between games.",
-      "Only if the opponent agrees."
+      "in doubles, each player of a pair is entitled to a warning for a doubtful service",
+      "if there is an assistant umpire, either the umpire or the assistant umpire can give a service warning",
+      "if there is an assistant umpire, only the umpire can give a service warning; the assistant umpire cannot give a service warning",
+      "if there is an assistant umpire, no service warning is issued"
     ],
-    "correct": "No, unless it is accidentally damaged and cannot be used.",
-    "note": "Rule 3.4.2.2: A racket shall not be replaced during a match unless it is accidentally damaged so badly that it cannot be used."
+    "correct": "if there is an assistant umpire, either the umpire or the assistant umpire can give a service warning",
+    "note": "Rule 2.6.6.1: If either the umpire or the assistant umpire is not sure about the legality of a service he or she may, on the first occasion in a match, interrupt play and warn the server."
   },
   {
     "id": 33,
-    "text": "How long is the permitted warm-up period on the match table?",
+    "text": "When A serves, the ball first hits the net post and then his side of the table, from where it spins over the net. Before it can bounce on X's side of the net, X catches it, above the table. The umpire should award a",
     "options": [
-      "1 minute",
-      "2 minutes",
-      "5 minutes",
-      "10 minutes"
+      "point to A because X obstructed the ball",
+      "point to X because A did not make a good service",
+      "point to A because X prevented A from making a good service",
+      "let, because the ball was obstructed in a net-cord service, which was otherwise good"
     ],
-    "correct": "2 minutes",
-    "note": "Rule 3.4.4.1: Players are entitled to practice on the match table for up to 2 minutes immediately before the start of a match."
+    "correct": "point to X because A did not make a good service",
+    "note": "Rule 2.6.3: Since the ball hit the net post before touching the table, the serve is not good."
   },
   {
     "id": 34,
-    "text": "How long is the interval between games?",
+    "text": "X serves and the ball bounces on his court, touches the top of the net and goes high in the air. A catches it, above the playing surface, with his free hand, which he then rests on the playing surface. The umpire should award a",
     "options": [
-      "Up to 30 seconds.",
-      "Up to 1 minute.",
-      "Up to 2 minutes.",
-      "5 minutes."
+      "point to A because X did not make a good service",
+      "point to X because A's free hand touched the playing surface",
+      "point to X because A obstructed the ball",
+      "let, because the ball touched the net and was obstructed by A"
     ],
-    "correct": "Up to 1 minute.",
-    "note": "Rule 3.4.4.1.2: Play shall be continuous throughout a match, except that any player is entitled to an interval of up to 1 minute between successive games."
+    "correct": "let, because the ball touched the net and was obstructed by A",
+    "note": "Rule 2.9.1.1: The rally shall be a let if in service the ball touches the net assembly, provided the service is otherwise correct or the ball is obstructed by the receiver or his or her partner."
   },
   {
     "id": 35,
-    "text": "How many 'time-outs' is each player or pair allowed per match?",
+    "text": "A stamps (heavily stamping on the floor) his foot each time he serves; X is disturbed by this, and the noise is loud enough to be offensive and annoying to the spectators. The umpire should",
     "options": [
-      "One",
-      "Two",
-      "None",
-      "One per game"
+      "award a point to X as stomping a foot during a service is not permitted",
+      "report this to the referee",
+      "handle under the Point Penalty System (PPS) and give A a warning",
+      "call a let and warn A not to stamp his foot; report this to the referee if A stamps his foot again"
     ],
-    "correct": "One",
-    "note": "Rule 3.4.4.2.1: Each player or pair may claim 1 time-out period of up to 1 minute during a match."
+    "correct": "handle under the Point Penalty System (PPS) and give A a warning",
+    "note": "Rule 3.5.2.1: Players and coaches or other advisers shall refrain from behaviour that may unfairly affect an opponent, offend spectators or bring the sport into disrepute."
   },
   {
     "id": 36,
-    "text": "What is the penalty for a first instance of misbehaviour (e.g., racket throwing)?",
+    "text": "In serving, A tries to strike the ball as it rises but misses it. He tries again as it falls and, when it is just below the level of the playing surface, he strikes it upwards so that it bounces from his court, over the net and onto X's court. X, taken by surprise, tries to return the ball but hits it into the net. The umpire should award a",
     "options": [
-      "Immediate disqualification.",
-      "Formal warning (Yellow Card).",
-      "Loss of a point.",
-      "Loss of 2 points."
+      "let, because the ball was struck below the level of the playing surface",
+      "point to A because X did not make a good return",
+      "let, because X was not ready",
+      "point to X because the ball was struck below the level of the playing surface"
     ],
-    "correct": "Formal warning (Yellow Card).",
-    "note": "Rule 3.5.2.2: For a first offence, the umpire shall exhibit a yellow card and warn the offender."
+    "correct": "point to X because the ball was struck below the level of the playing surface",
+    "note": "Rule 2.6.4: From the start of service until it is struck, the ball shall be above the level of the playing surface."
   },
   {
     "id": 37,
-    "text": "What happens if a warned player misbehaves a second time in the same match?",
+    "text": "In a doubles service, the ball touches the server's right half court and then the net. The umpire should",
     "options": [
-      "Another yellow card.",
-      "The umpire awards 1 point to the opponent (Yellow + Red card).",
-      "The umpire awards 2 points to the opponent.",
-      "The match is terminated."
+      "immediately call net, then let if the ball touches the receiver's half court",
+      "wait until the ball touches the receiver's half court before calling let",
+      "raise her arm but wait for the ball to touch the court before making a call",
+      "wait for the ball to touch the correct court or not before calling let or fault"
     ],
-    "correct": "The umpire awards 1 point to the opponent (Yellow + Red card).",
-    "note": "Rule 3.5.2.3: If the offender commits a second offence, the umpire shall award 1 point to the offender's opponent."
+    "correct": "wait for the ball to touch the correct court or not before calling let or fault",
+    "note": "HMO Appendix C: When the ball touches the net during service, the umpire should wait until the ball touches the correct court or half-court and make the appropriate call."
   },
   {
     "id": 38,
-    "text": "When is coaching allowed during a match?",
+    "text": "The free hand, while in contact with the ball and at the instant of projecting the ball upwards, shall be",
     "options": [
-      "Only during intervals between games.",
-      "Only during time-outs.",
-      "Between rallies, provided it does not delay play.",
-      "It is never allowed."
+      "behind the server's left court end line",
+      "above the level of the playing surface and behind the server's end line",
+      "behind the server's right court end line",
+      "none of the other three answers presented are correct"
     ],
-    "correct": "Between rallies, provided it does not delay play.",
-    "note": "Rule 3.5.1.3: Players may receive coaching between rallies or during authorized intervals."
+    "correct": "none of the other three answers presented are correct",
+    "note": "Rule 2.6.4 refers to the position of the ball (above the playing surface, behind the end line, not hidden). There is no reference to the position of the free hand in service."
   },
   {
     "id": 39,
-    "text": "What is the minimum lighting requirement for World/Olympic competitions?",
+    "text": "During a rally A strikes the ball while it is below the level of the table. It passes under the net assembly outside the table and then touches the playing surface on X's side. The umpire should",
     "options": [
-      "600 lux",
-      "1000 lux",
-      "1500 lux",
-      "800 lux"
+      "award a point to A",
+      "award a point to X",
+      "call a let",
+      "take no action"
     ],
-    "correct": "1000 lux",
-    "note": "Rule 3.2.3.4: The light intensity shall be at least 1000 lux over the playing surface."
+    "correct": "take no action",
+    "note": "Rule 2.7.1: The ball shall be struck so that it touches the opponent's court, either directly or after touching the net assembly. It is not necessary for the ball to go over the net."
   },
   {
     "id": 40,
-    "text": "What is the required floor space for a World Championship match?",
+    "text": "At the score 6-6 in a doubles match, A should be serving to X. By mistake, B serves to X and successive good returns are made by X and A. The next return is made by Y, but the ball misses the table and goes out of play, when you (as umpire) realize that the wrong player served to start the rally. The umpire should award a",
     "options": [
-      "10m x 5m",
-      "12m x 6m",
-      "14m x 7m",
-      "9m x 4.5m"
+      "point to A/B, because Y's return was not good, and continue with A serving to X",
+      "point to X/Y, because the wrong player served, and continue with A serving to Y",
+      "point to A/B, because Y's return was not good, and continue with B serving to Y",
+      "let, because the wrong player served, and continue with A serving to X"
     ],
-    "correct": "14m x 7m",
-    "note": "Rule 3.2.3.1: The playing space shall be rectangular, not less than 14m long, 7m wide."
+    "correct": "point to A/B, because Y's return was not good, and continue with A serving to X",
+    "note": "Rule 2.14.3: All points scored before the discovery of an error shall be reckoned. Rule 2.14.1: Play continues in the correct order for the game in which the error is discovered."
   },
   {
     "id": 41,
-    "text": "What color must the ball be?",
+    "text": "At the start of the fifth game of a doubles match between A/B and X/Y, X served to B. Who should be serving and receiving after the players change ends with the score 2-5?",
     "options": [
-      "White or orange, matt.",
-      "Yellow.",
-      "Any color.",
-      "White only."
+      "B to X",
+      "A to X",
+      "A to Y",
+      "Y to B"
     ],
-    "correct": "White or orange, matt.",
-    "note": "Rule 2.3.3: The ball shall be white or orange, and matt."
+    "correct": "A to Y",
+    "note": "Initial order X-B-Y-A, so at 2-5 A is serving but the receiving order is reversed: A-Y-B-X."
   },
   {
     "id": 42,
-    "text": "Can a player use a racket with a handle made of metal?",
+    "text": "With the score 4-2 in the last possible game of a doubles match, A serves to X and X misses the ball. Just after the ball touches the floor the time limit is reached. In the next rally",
     "options": [
-      "Yes.",
-      "No, only wood.",
-      "Only if it's covered by grip tape.",
-      "Only in amateur matches."
+      "A serves to Y",
+      "X serves to B",
+      "X serves to A",
+      "Y serves to A"
     ],
-    "correct": "Yes.",
-    "note": "Rule 2.4.1: Racket size/weight/shape is not limited; only the blade rigidity and flatness are specified."
+    "correct": "X serves to A",
+    "note": "Rule 2.15.3: If the ball is not in play when the expedite system comes into operation, play resumes with service by the player who received in the immediately preceding rally. X received in the previous rally, so X serves to A."
   },
   {
     "id": 43,
-    "text": "Is 'pimpled rubber' without sponge allowed?",
+    "text": "At the start of the final game of a doubles match, A serves to X. When the score is 2-6 in the final game, who could be serving to whom?",
     "options": [
-      "No.",
-      "Yes, if the thickness (including adhesive) does not exceed 2.0 mm.",
-      "Only if it's red.",
-      "Only on the backhand."
+      "A to X",
+      "B to X",
+      "X to A",
+      "Y to B"
     ],
-    "correct": "Yes, if the thickness (including adhesive) does not exceed 2.0 mm.",
-    "note": "Rule 2.4.3.1: Ordinary pimpled rubber shall not exceed 2.0mm."
+    "correct": "B to X",
+    "note": "At 2-6 either A or B is serving: A to Y or B to X."
   },
   {
     "id": 44,
-    "text": "What is the maximum thickness for 'sandwich rubber' (rubber + sponge)?",
+    "text": "During the first game in a doubles match, A serves to X and the timekeeper calls 'time' during the rally. To start the next rally under the expedite rule",
     "options": [
-      "2.0 mm",
-      "3.0 mm",
-      "4.0 mm",
-      "5.0 mm"
+      "A serves to X",
+      "X serves to A",
+      "X serves to B",
+      "B serves to Y"
     ],
-    "correct": "4.0 mm",
-    "note": "Rule 2.4.3.2: Sandwich rubber shall not exceed 4.0mm."
+    "correct": "A serves to X",
+    "note": "Rule 2.15.3: If the ball is in play when the time limit is reached, play shall be interrupted and resume with service by the player who served in the rally that was interrupted."
   },
   {
     "id": 45,
-    "text": "What happens if a player touches the net with their racket while the ball is in play?",
+    "text": "The umpire can call 'let' and warn a player the first time he makes an illegal service",
     "options": [
-      "Nothing, play continues.",
-      "The player loses the point.",
-      "The point is replayed.",
-      "A warning is given."
+      "only if no assistant umpire has been appointed",
+      "only if the assistant umpire says he could not see the service action",
+      "only if he is sure that the server gained no advantage",
+      "in no circumstances"
     ],
-    "correct": "The player loses the point.",
-    "note": "Rule 2.10.1.10: If a player, or anything he wears or carries, touches the net assembly."
+    "correct": "in no circumstances",
+    "note": "Rule 2.6.6.1: A warning is possible only when the umpire or assistant umpire is not sure about the legality of a service. Here the service is illegal, not doubtful."
   },
   {
     "id": 46,
-    "text": "What is the 'end line' of the table?",
+    "text": "A return may be good if",
     "options": [
-      "The line on the side of the table.",
-      "The line at the back of the table, extending indefinitely in both directions.",
-      "The center line.",
-      "The net."
+      "the ball is struck by the racket handle then the blade in a continuous stroke",
+      "the ball goes under the projection of the net bracket beyond the table",
+      "the ball accidentally strikes first the finger, then the racket",
+      "all other answers presented are correct"
     ],
-    "correct": "The line at the back of the table, extending indefinitely in both directions.",
-    "note": "Rule 2.5.15: The end line shall be regarded as extending indefinitely in both directions."
+    "correct": "all other answers presented are correct",
+    "note": "Rule 2.10.1.7: A point is lost only if a player deliberately strikes the ball more than once in succession. Rule 2.7.1: The ball shall be struck so that it touches the opponent's court. All returns are good."
   },
   {
     "id": 47,
-    "text": "If a player moves the playing surface during a rally, what is the result?",
+    "text": "A makes a good but very high return which X moves in to kill (smash); just then C wins his match on the adjoining table and lets out a victory yell which startles X so much that he misses the ball. The umpire should award a",
     "options": [
-      "Loss of point.",
-      "Point is replayed.",
-      "The opponent gets a warning.",
-      "Play continues if the ball didn't touch the table."
+      "point to A as X failed to make a good return",
+      "let, as the umpire decides that X missed the ball because of a disturbance beyond his control",
+      "point to X because he would have won it anyway",
+      "point to X only if A agrees he would have won it anyway; otherwise a let is called"
     ],
-    "correct": "Loss of point.",
-    "note": "Rule 2.10.1.9: If a player's opponent moves the playing surface."
+    "correct": "let, as the umpire decides that X missed the ball because of a disturbance beyond his control",
+    "note": "Rule 2.9.1.3: The rally shall be a let if failure to make a return is due to a disturbance outside the control of the player."
   },
   {
     "id": 48,
-    "text": "In a match consisting of 5 games, how many games must a player win to win the match?",
+    "text": "Player A strikes the ball beyond the sideline after it has completely crossed the playing surface on his side without touching the table but before it crosses the end line. The umpire should",
     "options": [
-      "2",
-      "3",
-      "4",
-      "5"
+      "award a point to A",
+      "award a point to X",
+      "call a let",
+      "take no action"
     ],
-    "correct": "3",
-    "note": "Standard 'Best of 5' format."
+    "correct": "award a point to A",
+    "note": "Rule 2.10.1.4: A point is scored if the ball passes over the player's court or beyond his end line without touching his court. The ball is out of play as soon as it crosses the sideline."
   },
   {
     "id": 49,
-    "text": "Can a player hold the racket with both hands during a strike?",
+    "text": "During the first game of a match you warn X for shouting abuse at A, although this does not appear to bother A. In the second game X again shouts and physically threatens A when he loses a point. The umpire should",
     "options": [
-      "Yes.",
-      "No.",
-      "Only for the backhand.",
-      "Only if they have a medical certificate."
+      "report to the referee immediately",
+      "warn X again for bad behaviour",
+      "hold up a yellow and a red card and award 1 point to A",
+      "take no action, provided you are sure that A is not being disturbed"
     ],
-    "correct": "Yes.",
-    "note": "Rules do not prohibit using both hands to hold the racket."
+    "correct": "report to the referee immediately",
+    "note": "Rule 3.5.2.2: For a serious offence the umpire shall suspend play and report immediately to the referee. Physically threatening an opponent is a serious offence."
   },
   {
     "id": 50,
-    "text": "If a server misses the ball completely during a service attempt, what is the result?",
+    "text": "Just as X is about to make a return shot, A shouts out loudly which causes X to miss the ball. The umpire should",
     "options": [
-      "The server can try again.",
-      "Loss of point.",
-      "Let.",
-      "Warning."
+      "call a let",
+      "call a let and give a yellow card to A for misbehaviour during the rally",
+      "call fault and give one penalty point to X",
+      "take no action"
     ],
-    "correct": "Loss of point.",
-    "note": "Rule 10.2 / 2.10.1.1: Once the ball is in play, failing to make a good service results in a point for the opponent."
+    "correct": "call a let and give a yellow card to A for misbehaviour during the rally",
+    "note": "Rule 2.9.1.3: Let for a disturbance outside the control of the player. Rule 3.5.2.2: Deliberate shouting is misbehaviour but not serious, so the Point Penalty System applies (yellow card)."
   },
   {
     "id": 51,
-    "text": "What happens if a player's racket breaks during a rally?",
+    "text": "A serves at the score 8-10. As the ball, returned by X, lands on the playing surface the match clock shows that 10 minutes have expired. The umpire should",
     "options": [
-      "The point is immediately stopped and replayed.",
-      "The point continues until finished.",
-      "The player loses the point.",
-      "The player can switch rackets immediately."
+      "call 'let' and continue under the expedite system with A serving",
+      "call 'let' and continue under the expedite system with X serving",
+      "allow play to continue but start the next game under the expedite system",
+      "allow play to continue and take no further action"
     ],
-    "correct": "The point continues until finished.",
-    "note": "Rule 3.4.2.2: Racket replacement only after the rally or game."
+    "correct": "allow play to continue and take no further action",
+    "note": "Rule 2.15.2: The expedite system shall not be introduced in a game if at least 18 points have been scored."
   },
   {
     "id": 52,
-    "text": "Are players allowed to use towels during a game?",
+    "text": "When the expedite system is in operation",
     "options": [
-      "Never.",
-      "Only after every 6 points scored and at game changes.",
-      "Whenever they want.",
-      "Only at the end of the game."
+      "the receiver wins the point if he makes twelve good returns counting the return of service as the first return",
+      "each player serves one point in turn; the stroke counter counts when the return is good",
+      "in singles the receiver of the last point in a game always serves the first point in the next game provided that the match is not over",
+      "none of the other three answers presented are correct"
     ],
-    "correct": "Only after every 6 points scored and at game changes.",
-    "note": "Rule 3.4.4.1.1: Brief intervals for towelling after every 6 points."
+    "correct": "none of the other three answers presented are correct",
+    "note": "Rule 2.15.4: The receiver must make 13 correct returns. The stroke counter counts as soon as the ball is struck. Rule 2.15.5: Expedite does not alter the order of serving and receiving in the match."
   },
   {
     "id": 53,
-    "text": "What color must the floor be in the playing area?",
+    "text": "In timing a match,",
     "options": [
-      "Any color.",
-      "Light and reflective.",
-      "Dark and non-reflective.",
-      "Green only."
+      "time should be started when the ball is first served and stopped at the end of each rally",
+      "the umpire or assistant umpire time the pre-match practice, each game, the intervals between games and any time-outs; time is stopped whenever the ball leaves the playing area",
+      "the assistant umpire times the pre-match practice, each game and the intervals between games, the umpire must time any time-outs. Time is stopped for any delay such as a long conversation between playing partners in doubles",
+      "the umpire or assistant umpire time the pre-match practice, each game, the intervals between games and any time-outs. Time is stopped whenever the ball leaves the playing area and any delay such as a long conversation between playing partners in doubles"
     ],
-    "correct": "Dark and non-reflective.",
-    "note": "Rule 3.2.3.2: The floor shall be non-reflective and dark."
+    "correct": "the umpire or assistant umpire time the pre-match practice, each game, the intervals between games and any time-outs; time is stopped whenever the ball leaves the playing area",
+    "note": "Rule 3.3.2.5.5: Either the umpire or the assistant umpire may time the practice period, play and intervals. HMO Appendix A 14: Stop the timer for substantial breaks such as towelling or retrieving the ball from outside the playing area."
   },
   {
     "id": 54,
-    "text": "Who decides if a match is to be suspended due to an injury?",
+    "text": "Which of the following statements is correct?",
     "options": [
-      "The Umpire.",
-      "The Referee.",
-      "The Player.",
-      "The Doctor."
+      "if any game lasts 10 minutes the remaining games of the match will be played under expedite",
+      "expedite begins when any game reaches 10 minutes unless each player or pair has 9 or more points; expedite continues until the end of the match",
+      "if time is called when the ball is not in play, the player that received in the previous rally serves the first point in expedite",
+      "all other answers presented are correct"
     ],
-    "correct": "The Referee.",
-    "note": "Rule 3.4.4.4: The referee may allow a suspension of play of the shortest practical duration (not more than 10 mins)."
+    "correct": "if time is called when the ball is not in play, the player that received in the previous rally serves the first point in expedite",
+    "note": "Rule 2.15.3: If the ball is not in play when the expedite system comes into operation, play shall resume with service by the player who received in the immediately preceding rally."
   },
   {
     "id": 55,
-    "text": "If a player is bleeding, can they continue to play?",
+    "text": "The stroke counter in an expedite rule match counts",
     "options": [
-      "Yes.",
-      "No, play must be suspended immediately until the bleeding is stopped and the area cleaned.",
-      "Only if the opponent doesn't mind.",
-      "If they wear a bandage."
+      "the server's strokes out loud, calling '13' after he hits his 13th stroke including the serve",
+      "the receiver's good returns out loud, calling 'point' when his 13th return hits the table",
+      "the server's strokes silently, calling 'point' after he hits his 13th stroke, counting the serve as stroke number 1",
+      "the receiver's strokes out loud, calling '13' after he hits his 13th stroke"
     ],
-    "correct": "No, play must be suspended immediately until the bleeding is stopped and the area cleaned.",
-    "note": "Safety/Hygiene regulations."
+    "correct": "the receiver's strokes out loud, calling '13' after he hits his 13th stroke",
+    "note": "HMO 15.2.2: The stroke counter counts aloud the return strokes of the receiving player or pair, from 'one' to 'thirteen', immediately after each stroke. If the 13th return is good, the umpire calls 'stop' and awards a point to the receiver."
   },
   {
     "id": 56,
-    "text": "Is the net assembly considered part of the table?",
+    "text": "In the first game of a singles match, with the score at 0-0, A serves to X. The umpire then calls a let because the ball touched the net. Before A can serve again, both player A and player X approach the umpire and request that the rest of the match be played under the expedite system. The player to serve next is",
     "options": [
-      "No.",
-      "Yes.",
-      "Only the net itself.",
-      "Only the posts."
+      "A, as the expedite system cannot be introduced until at least 1 point has been scored",
+      "A, as no point has been scored",
+      "X, as A was the last server",
+      "ask the referee for a decision"
     ],
-    "correct": "Yes.",
-    "note": "Rule 2.2.1: The net assembly includes the net, its suspension, and the supporting posts."
+    "correct": "X, as A was the last server",
+    "note": "Rule 2.5.3: A let is a rally of which the result is not scored. Rule 2.15.3: If the ball is not in play when expedite comes into operation, the player who received in the immediately preceding rally serves."
   },
   {
     "id": 57,
-    "text": "If a ball strikes the side of the table (below the edge), is it considered in?",
+    "text": "In a match between A and X, A has just served, and the rally is continuing. The umpire interrupts the rally to introduce the expedite system. Which of the following statements is correct?",
     "options": [
-      "Yes.",
-      "No.",
-      "Replay.",
-      "Only if it bounces high."
+      "the umpire should not have interrupted the rally and should only introduce the expedite when the rally has ended",
+      "in the next rally A serves to X",
+      "in the next rally X serves to A",
+      "the umpire tosses a coin to determine if A serves to X or X to A"
     ],
-    "correct": "No.",
-    "note": "Rule 2.1.2: The playing surface does not include the vertical sides of the tabletop."
+    "correct": "in the next rally A serves to X",
+    "note": "Rule 2.15.3: If the ball is in play when the time limit is reached, play shall be interrupted and resume with service by the player who served in the rally that was interrupted."
   },
   {
     "id": 58,
-    "text": "What is the result if a player strikes the ball twice consecutively?",
+    "text": "Under misbehaviour regulations",
     "options": [
-      "Play continues.",
-      "Loss of point.",
-      "Let.",
-      "Point only if it was unintentional."
+      "the umpire shows a yellow card when giving a warning",
+      "the umpire shows a red card when directing an advisor to leave",
+      "the umpire shows a yellow and a red card when awarding a penalty point",
+      "all other answers presented are correct"
     ],
-    "correct": "Loss of point.",
-    "note": "Rule 2.10.1.6: A point is awarded if an opponent deliberately strikes the ball twice in succession."
+    "correct": "all other answers presented are correct",
+    "note": "Rule 3.5.2.2: yellow card for a warning; Rule 3.5.2.7: red card when sending a warned adviser away; Rule 3.5.2.3: yellow and red card together when awarding penalty points."
   },
   {
     "id": 59,
-    "text": "Can a player wear a white shirt during a match with a white ball?",
+    "text": "During the first game A throws his racket into a surround and the umpire gives A a warning, displaying a yellow card. At the end of the game, A kicks a surround. The umpire should",
     "options": [
-      "Yes.",
-      "No, the main color of a garment shall be clearly different from that of the ball in use.",
-      "Only if it has a logo.",
-      "Only in warm-ups."
+      "again, warn him because the game is over",
+      "award a penalty point to X and start the next game with X leading 1-0",
+      "call the referee",
+      "ignore the incident because A was upset with himself"
     ],
-    "correct": "No, the main color of a garment shall be clearly different from that of the ball in use.",
-    "note": "Rule 3.2.2.2."
+    "correct": "award a penalty point to X and start the next game with X leading 1-0",
+    "note": "Rule 3.5.2.3: A second offence earns 1 point for the opponent. HMO 17.3.3: Unused penalty points are transferred to the next game, which starts at 0-1 or 0-2 in favour of the offender's opponent."
   },
   {
     "id": 60,
-    "text": "In a team match, how many players are usually on each team in the Swaythling Cup format?",
+    "text": "In the first 2 singles of a team match, A is warned, and B incurs a penalty point. When later in the team match, they are playing as a doubles pair, A intentionally breaks the ball by stepping on it. The umpire should",
     "options": [
-      "2",
-      "3",
-      "5",
-      "4"
+      "formally warn A/B",
+      "award 2 penalty points to X/Y",
+      "award 1 penalty point to X/Y",
+      "report to the referee"
     ],
-    "correct": "3",
-    "note": "World Team Championship format."
+    "correct": "award 2 penalty points to X/Y",
+    "note": "Rule 3.5.2.6 / HMO 17.3.4: At the start of a doubles match the pair is regarded as having incurred the higher of any warnings or penalties incurred by either player in the same team match, so a first offence in doubles incurs 2 penalty points."
   },
   {
     "id": 61,
-    "text": "What happens if the umpire's decision is challenged by a player on a point of fact?",
+    "text": "In the first 2 singles of a team match, A is warned, and B incurs a penalty point. When later in the team match, they are playing as a doubles pair, A intentionally breaks the ball by stepping on it. What penalties carry forward to each player's next singles match?",
     "options": [
-      "The Referee is called.",
-      "The Umpire's decision is final.",
-      "The point is replayed.",
-      "The crowd decides."
+      "none",
+      "1 penalty point each for A and B",
+      "2 penalty points each for A and B",
+      "1 penalty point for A, 2 penalty points for B"
     ],
-    "correct": "The Umpire's decision is final.",
-    "note": "Rule 3.3.3.1: No appeal shall be made to the referee on a question of fact."
+    "correct": "1 penalty point each for A and B",
+    "note": "Rule 3.5.2.6 / HMO 17.3.4: A penalty during a doubles match applies to the pair during that match, but only the offending player carries it over to a subsequent individual match."
   },
   {
     "id": 62,
-    "text": "What happens if a player disagrees with the Umpire on an interpretation of the rules?",
+    "text": "In the second singles of a team match, B incurs a penalty point. When later in the match A (who has not been penalised before) and B are playing as a doubles pair, B angrily kicks down a surround after losing a point. The umpire should",
     "options": [
-      "The Umpire's decision is final.",
-      "They can appeal to the Referee.",
-      "They can stop the match.",
-      "The game is forfeit."
+      "formally warn A/B",
+      "award 2 penalty points to X/Y",
+      "award 1 penalty point to X/Y",
+      "report to the referee"
     ],
-    "correct": "They can appeal to the Referee.",
-    "note": "Rule 3.3.3.2: An appeal may be made to the referee on a question of rule interpretation."
+    "correct": "award 2 penalty points to X/Y",
+    "note": "Rule 3.5.2.6 / HMO 17.3.4: The doubles pair is regarded as having incurred the higher of any warnings or penalties incurred by either player in the same team match."
   },
   {
     "id": 63,
-    "text": "What is a 'Let'?",
+    "text": "In the second singles of a team match, B incurs a penalty point. When later in the match A (who has not been penalised before) and B are playing as a doubles pair, B angrily kicks down a surround after losing a point. What penalties carry forward to each player's next singles match?",
     "options": [
-      "A rally, the result of which is not scored.",
-      "A point won by the server.",
-      "A point won by the receiver.",
-      "The end of the game."
+      "none",
+      "2 penalty points each for A and B",
+      "no penalty for A, 2 penalty points for B",
+      "1 penalty point for A, 2 penalty points for B"
     ],
-    "correct": "A rally, the result of which is not scored.",
-    "note": "Rule 2.5.3."
+    "correct": "no penalty for A, 2 penalty points for B",
+    "note": "Rule 3.5.2.6 / HMO 17.3.4: A penalty during a doubles match applies to the pair during that match, but only the offending player carries it over to a subsequent individual match."
   },
   {
     "id": 64,
-    "text": "When should the score be called by the Umpire?",
+    "text": "In the first 2 singles of a team match, players A and B each are given a warning for misbehaviour. When later in the match they are playing as a doubles pair, A intentionally breaks the ball by stepping on it. What penalties carry forward to each player's next singles match?",
     "options": [
-      "Immediately after the ball becomes out of play or as soon as towelling is over.",
-      "Before the serve starts.",
-      "At the end of the game only.",
-      "Only when a player asks."
+      "none",
+      "1 penalty point each for A and B",
+      "2 penalty points each for A and B",
+      "1 penalty point for A, warning for B"
     ],
-    "correct": "Immediately after the ball becomes out of play or as soon as towelling is over.",
-    "note": "Umpiring procedures."
+    "correct": "1 penalty point for A, warning for B",
+    "note": "Rule 3.5.2.6 / HMO 17.3.4: A penalty during a doubles match applies to the pair during that match, but only the offending player carries it over to a subsequent individual match."
   },
   {
     "id": 65,
-    "text": "What is the correct way to call the score?",
+    "text": "In the first 2 singles of a team match, A is warned, and B incurs a penalty point. When later in the match they are playing as a doubles pair, A intentionally breaks the ball by stepping on it and X/Y are awarded 2 penalty points. What penalties carry forward to each player's next singles match?",
     "options": [
-      "Receiver's score first.",
-      "Server's score first.",
-      "Higher score first.",
-      "Alphabetical order."
+      "none",
+      "1 penalty point each for A and B",
+      "2 penalty points each for A and B",
+      "2 penalty points for A, 1 penalty point for B"
     ],
-    "correct": "Server's score first.",
-    "note": "Umpiring procedures."
+    "correct": "1 penalty point each for A and B",
+    "note": "Rule 3.5.2.6 / HMO 17.3.4: A penalty during a doubles match applies to the pair during that match, but only the offending player carries it over to a subsequent individual match."
   },
   {
     "id": 66,
-    "text": "In the deciding game of a match, how many points are scored before ends are changed?",
+    "text": "After the umpire gives a warning or awards a penalty point the assistant umpire",
     "options": [
-      "5",
-      "7",
-      "10",
-      "8"
+      "places cards by the scoreboard as directed by the umpire",
+      "places a yellow card by the scoreboard after a warning but takes no special action after the award of penalty points",
+      "places a red marker by the scoreboard next to the yellow marker after the award of a penalty point",
+      "places a red only marker by the scoreboard after the award of a penalty point"
     ],
-    "correct": "5",
-    "note": "Rule 2.14.2."
+    "correct": "places a red marker by the scoreboard next to the yellow marker after the award of a penalty point",
+    "note": "HMO 17.2.3: After a formal warning a yellow marker is placed near the score indicator; after a penalty point both a yellow and a red marker are placed."
   },
   {
     "id": 67,
-    "text": "What is the penalty for a coach being warned once and then coaching again?",
+    "text": "In the 1st game of a five-game match, X served first in the match. A is given a warning and for later bad behaviour in the game his opponent, X, is awarded a penalty point. In the 2nd game, A, before serving at the score 10-10, intentionally breaks the ball. The umpire should",
     "options": [
-      "Removal from the playing area.",
-      "A yellow card followed by a red card and removal.",
-      "Point penalty for the player.",
-      "Fine."
+      "call for the referee",
+      "award X 1 penalty point and continue the game with X serving 11-10",
+      "award X 2 penalty points and start 3rd game with X serving 0-0",
+      "award X 2 penalty points and start 3rd game with X serving 1-0"
     ],
-    "correct": "A yellow card followed by a red card and removal.",
-    "note": "Rule 3.5.1.5."
+    "correct": "award X 2 penalty points and start 3rd game with X serving 0-0",
+    "note": "Rule 3.5.2.3: For a further offence 2 points are awarded. This makes the score 12-10 to X, ending the game. Since X served first in game 1, X serves first in game 3."
   },
   {
     "id": 68,
-    "text": "How much of the server's racket must be visible to the receiver during service?",
+    "text": "In a team match A/B/C vs X/Y/Z, B gives illegal advice to A in the first match and is warned. In the next individual match of the team match, A gives illegal advice to B. The umpire should",
     "options": [
-      "All of it.",
-      "None, only the ball must be visible.",
-      "The rules don't mention racket visibility, only the ball.",
-      "The handle."
+      "give A a warning, showing a yellow card",
+      "show a red card and require A to leave the area; he cannot return until the completion of the team match",
+      "show a red card and require A to leave the area; he can return at the completion of B's match",
+      "show a red card and require A to leave the area; he can return only to play his next match"
     ],
-    "correct": "The rules don't mention racket visibility, only the ball.",
-    "note": "Rule 10.5: Racket visibility is not a requirement; only the ball's visibility is."
+    "correct": "show a red card and require A to leave the area; he can return only to play his next match",
+    "note": "Rule 3.5.1.4: After a warning, if anyone again gives advice illegally in the same team match, the umpire shall show a red card and send him away, whether or not he was the person warned. Rule 3.5.1.5: The dismissed adviser may return only when required to play."
   },
   {
     "id": 69,
-    "text": "What is the maximum number of people allowed in the playing area as coaches for a team?",
+    "text": "During a team match, between rallies, X's captain keeps calling out to him in a language that the umpire does not understand, and from X's actions the umpire is sure that he is being given advice. The umpire should",
     "options": [
-      "1",
-      "2",
-      "As many as the team wants.",
-      "One person or everyone on the team bench."
+      "take no action",
+      "take no action, provided he is satisfied that the calls do not disturb A",
+      "warn the captain and send him away from the playing area if the calls continue",
+      "warn the captain and report to the referee if the calls continue"
     ],
-    "correct": "One person or everyone on the team bench.",
-    "note": "Rule 3.5.1.1: A player/pair may receive coaching from anyone on the bench."
+    "correct": "take no action",
+    "note": "Rule 3.5.1.3: Players may receive advice at any time except during rallies."
   },
   {
     "id": 70,
-    "text": "If a player shouts 'Come on!' loudly after every point, can the Umpire intervene?",
+    "text": "Doubles pair A/B are from different Associations and speak different languages. Each player has a separate advisor. In the first game, A's advisor is warned for illegal advice during the game. During the next game B's advisor signals B what serve to use. The umpire should",
     "options": [
-      "No.",
-      "Yes, if it is considered disruptive or unsportsmanlike.",
-      "Only if the opponent complains.",
-      "Only at the end of the set."
+      "give B's advisor a warning showing a yellow card",
+      "show B's advisor a red card and require the advisor to leave the area",
+      "show a red card to both advisors and require both to leave the area",
+      "take no action"
     ],
-    "correct": "Yes, if it is considered disruptive or unsportsmanlike.",
-    "note": "Rule 3.5.2."
+    "correct": "take no action",
+    "note": "Rule 3.5.1.3: Players may receive advice at any time except during rallies, provided play is not delayed. Since this advice is not given during a rally, it is legal."
   },
   {
     "id": 71,
-    "text": "What is the 'Free Hand'?",
+    "text": "During a team match advice may be given by",
     "options": [
-      "The hand not carrying the racket.",
-      "The hand used to serve.",
-      "The hand that is not moving.",
-      "The hand that holds the ball."
+      "anyone on the team bench but only between games",
+      "anyone on the team bench but only between games and during authorized suspensions",
+      "one designated advisor whenever the ball is not in play",
+      "anyone on the team bench whenever the ball is not in play"
     ],
-    "correct": "The hand not carrying the racket.",
-    "note": "Rule 2.5.6."
+    "correct": "anyone on the team bench whenever the ball is not in play",
+    "note": "Rule 3.5.1.1: In a team event, players may receive advice from anyone authorised to be at the playing area. Rule 3.5.1.3: Advice may be given at any time except during rallies. Rule 2.5.1: A rally is the period during which the ball is in play."
   },
   {
     "id": 72,
-    "text": "What is the 'Racket Hand'?",
+    "text": "When one player of a doubles pair is in a wheelchair due to a disability and the partner is standing",
     "options": [
-      "The hand carrying the racket.",
-      "The dominant hand.",
-      "The hand that hit the last ball.",
-      "The hand wearing a glove."
+      "when serving to the player in a wheelchair the ball must not bounce on the receiver's side and return in the direction of the net",
+      "either player can make a return",
+      "there is no difference from regular rules",
+      "when serving to the player in a wheelchair the ball must not cross the sideline on the receiver's side"
     ],
-    "correct": "The hand carrying the racket.",
-    "note": "Rule 2.5.5."
+    "correct": "when serving to the player in a wheelchair the ball must not bounce on the receiver's side and return in the direction of the net",
+    "note": "Rule 2.9.1.5.1: Let if the receiver is in a wheelchair and the service, after touching the receiver's court, returns in the direction of the net. The sideline rule in service applies only to singles."
   },
   {
     "id": 73,
-    "text": "If a player accidentally drops their racket during a rally and the ball hits the hand that was holding it, is the strike valid?",
+    "text": "In a wheelchair doubles match, A begins the rally by serving to X. During the rally, as A makes a good return, the footrest of his chair crosses the imaginary extension of the centre line of the table. X is unable to make a good return, but his partner returns the ball. The umpire should",
     "options": [
-      "Yes.",
-      "No, the racket must be held in the hand.",
-      "Only if they pick it up.",
-      "Let."
+      "award the point to A/B because the wrong player returned the ball",
+      "take no action because the ball is still in play",
+      "award a point to X/Y",
+      "declare a let"
     ],
-    "correct": "No, the racket must be held in the hand.",
-    "note": "Rule 2.5.7: Must be touched by the racket held in the hand."
+    "correct": "award a point to X/Y",
+    "note": "Rule 2.10.1.15: A point is scored if, where an opposing doubles pair includes at least one player in a wheelchair, any part of the wheelchair or a foot of a standing player crosses an imaginary extension of the centre line. HMO Appendix F."
   },
   {
     "id": 74,
-    "text": "What happens if a ball in play hits a towel lying on the floor inside the playing area?",
+    "text": "In a women's wheelchair doubles match between A/B and X/Y, A serves correctly to X, however the ball goes over the sideline of X's right-hand court. As X makes a good return, she raises her hand appealing for a let which the umpire does not call. B fails to make a good return but in doing so appeals for a let saying she was distracted when X raised her hand. The umpire should",
     "options": [
-      "Play continues.",
-      "It is a Let.",
-      "Point is lost by the person who put it there.",
-      "The Umpire decides."
+      "allow a let as B was distracted by X raising her hand and advise both players to allow play to continue even if they think the service is a let",
+      "allow a let as the ball went over the sideline of X's right-hand court",
+      "award a point to X/Y but advise X to allow play to continue even if she thinks the service is a let",
+      "award a point to A/B because X caused a distraction"
     ],
-    "correct": "It is a Let.",
-    "note": "Usually treated as an external interference if not part of the playing equipment."
+    "correct": "allow a let as B was distracted by X raising her hand and advise both players to allow play to continue even if they think the service is a let",
+    "note": "Rule 2.9.1.3: Let for a disturbance outside the control of the player. In doubles the sideline rule in service does not apply, so the service was good; however X raising her hand caused a distraction."
   },
   {
     "id": 75,
-    "text": "How many minutes of rest are players allowed between consecutive matches?",
+    "text": "One player of a doubles pair, player B, is in a wheelchair, and her partner, player A, is standing. During a rally, just as A is making a return, B's foot touches the floor. The umpire should",
     "options": [
-      "2 minutes",
-      "5 minutes",
-      "10 minutes",
-      "None"
+      "call let and caution B that her foot must not touch the floor",
+      "award a point to X/Y as B's foot touched the floor during the rally",
+      "award a point to X/Y because B caused a distraction",
+      "take no action"
     ],
-    "correct": "5 minutes",
-    "note": "Rule 3.4.4.3: A player is entitled to up to 5 minutes between successive matches."
+    "correct": "take no action",
+    "note": "Rule 2.10.1.14.3 applies only if both players or pairs are in wheelchairs. Since not all players are in wheelchairs, it does not apply. HMO Appendix F."
   },
   {
     "id": 76,
-    "text": "Is it allowed to breathe on the ball to clean it or increase friction?",
+    "text": "In a doubles match X, a standing athlete, serves to A, who is in a wheelchair because of a disability. The service, which is otherwise good, bounces in A's right half court and then goes off the side of the table. A returns the ball and Y misses the subsequent return. The umpire should",
     "options": [
-      "Yes.",
-      "No, it is considered illegal surface treatment.",
-      "Only in cold halls.",
-      "Only with Umpire's permission."
+      "award a point to A/B",
+      "award a point to X/Y",
+      "call a let",
+      "take no action"
     ],
-    "correct": "Yes.",
-    "note": "Currently not explicitly prohibited by ITTF rules (though local COVID protocols may vary)."
+    "correct": "award a point to A/B",
+    "note": "As it is a doubles match, the ball crossing the sideline in service only applies to singles matches, so the service was good."
   },
   {
     "id": 77,
-    "text": "Can a player use a damp cloth to clean the racket during a game?",
+    "text": "X fails to make a good return and the umpire awards a point to A. X protests that A accidentally struck the ball twice and A agrees, although the umpire does not think he did so. The umpire should award a",
     "options": [
-      "Yes, between points.",
-      "No, only between games.",
-      "Only with towel.",
-      "Only with a chemical cleaner."
+      "point to X, because both players agree that the original decision was wrong, and the umpire is not certain",
+      "let, because the umpire is not certain whether A struck the ball twice",
+      "point to A because a decision once made cannot be changed",
+      "point to A, because even if A did strike the ball twice it was not deliberate"
     ],
-    "correct": "No, only between games.",
-    "note": "Rule 3.4.2.2: Racket must remain on the table during game intervals; cleaning is usually done between games."
+    "correct": "point to A, because even if A did strike the ball twice it was not deliberate",
+    "note": "Rule 2.10.1.7: A point is lost only if a player deliberately strikes the ball more than once in succession."
   },
   {
     "id": 78,
-    "text": "Where must the racket be during intervals between games?",
+    "text": "The assistant umpire raises his hand and calls 'side' to indicate that the ball returned by X hit the side of the table nearest to the assistant umpire, but the umpire is sure it touched the top edge. The umpire should",
     "options": [
-      "In the player's bag.",
-      "On the table.",
-      "With the coach.",
-      "It doesn't matter."
+      "call let because the assistant umpire's call could have affected the players",
+      "call let because he and the assistant umpire disagree",
+      "award a point to A because the assistant umpire has the final decision",
+      "award a point to X because the umpire has the final decision"
     ],
-    "correct": "On the table.",
-    "note": "Rule 3.4.2.3: The racket shall be left on the table during intervals."
+    "correct": "award a point to A because the assistant umpire has the final decision",
+    "note": "Rule 3.3.2.4.1 / HMO 12.2.3: The assistant umpire is solely responsible for edge ball decisions at the side of the table nearest to him or her."
   },
   {
     "id": 79,
-    "text": "In doubles, who can receive the first serve of the game?",
+    "text": "After the assistant umpire calls 3 faults against one player the player protests that the assistant umpire is not interpreting the service law correctly. The player wants to appeal to the referee. The umpire should",
     "options": [
-      "Only the designated player.",
-      "Either player of the receiving pair.",
-      "The person on the left.",
-      "The captain."
+      "stop the game and call for the referee whether or not the umpire agrees",
+      "ask the player to continue or face penalties under the point penalty system",
+      "show the player a yellow card and ask the player to continue immediately",
+      "call the referee if the umpire agrees the assistant is making mistakes interpreting the service law"
     ],
-    "correct": "Either player of the receiving pair.",
-    "note": "Rule 2.13.2: The pair having the right to receive first shall decide which partner shall receive first."
+    "correct": "stop the game and call for the referee whether or not the umpire agrees",
+    "note": "HMO 4.6.1: A player, or in a team match his or her captain, may appeal against what he or she believes to be a wrong rule interpretation by the umpire, assistant umpire or stroke counter."
   },
   {
     "id": 80,
-    "text": "If the umpire is in doubt about a service, what should they do the first time?",
+    "text": "In an individual match a player can appeal",
     "options": [
-      "Award a point to the opponent.",
-      "Call a Let and warn the server.",
-      "Do nothing.",
-      "Call the Referee."
+      "to the referee against an umpire's interpretation of the service rule",
+      "to the umpire against an assistant umpire's decision that his return missed the side of the table nearer to the assistant umpire",
+      "to the umpire against a stroke counter's error in counting strokes",
+      "to the umpire against an assistant umpire's decision that he struck the ball in service while it was above the table"
     ],
-    "correct": "Call a Let and warn the server.",
-    "note": "Rule 10.6.1: On the first occasion of doubt, the umpire may interrupt play and warn the server."
+    "correct": "to the referee against an umpire's interpretation of the service rule",
+    "note": "HMO 4.6.1: A player may appeal against what he or she believes to be a wrong rule interpretation by the umpire, assistant umpire or stroke counter."
   },
   {
     "id": 81,
-    "text": "Is a 'Net' serve that goes out of bounds a Let?",
+    "text": "In a team event an appeal can be made",
     "options": [
-      "Yes.",
-      "No, it's a lost point.",
-      "Yes, if it touched the opponent's side first.",
-      "Only in doubles."
+      "only by the individual participating in the match during which the appeal has arisen",
+      "only by the advisor of the team making the appeal",
+      "only by the captain of a team participating in the match in which the question has arisen",
+      "by the individual if his captain so agrees"
     ],
-    "correct": "No, it's a lost point.",
-    "note": "Rule 2.9.1.1: Let only if the service is otherwise correct."
+    "correct": "only by the captain of a team participating in the match in which the question has arisen",
+    "note": "Rule 3.3.3.6: In a team event an appeal may be made only by the captain of a team participating in the match in which the question has arisen."
   },
   {
     "id": 82,
-    "text": "What happens if a player strikes the ball and it hits the opponent's finger?",
+    "text": "At the end of a rally the umpire should",
     "options": [
-      "Point to the striker.",
-      "Let.",
-      "Play continues.",
-      "Warning."
+      "call the score immediately the ball is out of play",
+      "signal the result immediately the ball is out of play but delay calling the score until the players are ready to start the next rally",
+      "delay the signal and the calling of the score until the players are ready to start the next rally",
+      "signal the result immediately the ball is out of play but may delay calling the score until she is satisfied that the players will be able to hear it"
     ],
-    "correct": "Point to the striker.",
-    "note": "Rule 2.10.1.5: If an opponent obstructs the ball."
+    "correct": "signal the result immediately the ball is out of play but may delay calling the score until she is satisfied that the players will be able to hear it",
+    "note": "HMO 18.1.2: The score should normally be called as soon as the rally is decided, but with loud applause or a player retrieving the ball the umpire may delay slightly until both players can hear it. Appendix A 15: Signal the result, then call the new score as soon as practicable."
   },
   {
     "id": 83,
-    "text": "How many sets are in a standard ITTF match?",
+    "text": "After the first game the assistant umpire",
     "options": [
-      "Best of 3, 5, or 7.",
-      "Always 5.",
-      "Always 3.",
-      "Up to 10."
+      "changes the score indicator immediately, changing the game score then changes the points scores to 0-0",
+      "changes the score indicator immediately, changes the points scores to blank then changes the game score",
+      "changes the score indicator just before the players return for the next game, changing the points scores to blank then changes the game score",
+      "changes the score indicator just before the players return for the next game, changing the game score then changes the points scores to blank"
     ],
-    "correct": "Best of 3, 5, or 7.",
-    "note": "Match structure."
+    "correct": "changes the score indicator just before the players return for the next game, changing the points scores to blank then changes the game score",
+    "note": "HMO Appendix A 22: Just before the players return for the next game, set the points score indicators to blank and alter the games score indicators to reflect the result of the previous game."
   },
   {
     "id": 84,
-    "text": "Can a player change their racket hand during a point?",
+    "text": "In a match played under the expedite system, the players speak different languages and cannot agree on a language suitable to both. The stroke counter should call the number of strokes in",
     "options": [
-      "Yes.",
-      "No.",
-      "Only if they are ambidextrous.",
-      "Only in doubles."
+      "English or in any other language acceptable to the players and the umpire",
+      "the language of the Association organizing the event or in English",
+      "one of the ITTF official languages",
+      "any language decided by the referee"
     ],
-    "correct": "Yes.",
-    "note": "Rule 2.5.5 / 2.5.7: Strike is valid if the racket is held in 'the' hand; doesn't specify which one."
+    "correct": "English or in any other language acceptable to the players and the umpire",
+    "note": "Rule 3.4.1.3: The score and, under the expedite system, the number of strokes shall be called in English or in any other language acceptable to both players or pairs and to the umpire."
   },
   {
     "id": 85,
-    "text": "What is the maximum height of a post supporting the net?",
+    "text": "Player A did not bring his racket to the Call Area before the match but gives it to the umpire in the playing area before the start of the match. What are the tasks of the umpire with regards to this racket?",
     "options": [
-      "15.25 cm",
-      "16 cm",
-      "17.25 cm",
-      "20 cm"
+      "the umpire does a visual inspection of the racket (e.g. damage to coverings and blade, any other irregularity)",
+      "the umpire tests the racket in the field of play (thickness, flatness, LARC and any other irregularity)",
+      "the umpire does a visual inspection of the racket (e.g. damage to coverings and blade, any other irregularity) and collects the racket after the match for an after-match test",
+      "no inspection by the umpire at the table, but the umpire collects the racket after the match for an after-match test"
     ],
-    "correct": "15.25 cm",
-    "note": "Rule 2.2.3: Posts should not exceed the net height."
+    "correct": "the umpire does a visual inspection of the racket (e.g. damage to coverings and blade, any other irregularity) and collects the racket after the match for an after-match test",
+    "note": "ITTF Call Area and RCC Workflow: If a racket has not been tested before the match, the umpire does a visual inspection. Rackets not presented before the match will always be tested after the match."
   },
   {
     "id": 86,
-    "text": "What happens if a ball breaks during a rally?",
+    "text": "In a Class 4 singles match, during a long rally, one of the small wheels falls off from A's wheelchair, which had 2 small and 2 large wheels. The umpire should",
     "options": [
-      "The point is replayed (Let).",
-      "The point goes to the last person who hit it.",
-      "The point goes to the person who didn't hit it.",
-      "The umpire picks a winner."
+      "call let and have the wheelchair repaired before continuing the match",
+      "call let and ask A to replace the broken wheelchair with another wheelchair right away",
+      "award a point to X as A's wheelchair is missing a wheel",
+      "allow the rally to continue"
     ],
-    "correct": "The point is replayed (Let).",
-    "note": "Rule 2.9.2.4: Play may be interrupted because the ball is broken."
+    "correct": "allow the rally to continue",
+    "note": "HMO Appendix F: Wheelchairs must have at least two large wheels and one small wheel at the start of and throughout a rally. The wheelchair still has one small wheel, so it is legal."
   },
   {
     "id": 87,
-    "text": "What happens if a player touches the table with their racket hand?",
+    "text": "In a Class 5 doubles match, A makes a good serve to X. In making the return with a forehand smash, X lifts his right thigh off his wheelchair. A's wheelchair crosses the imaginary extension of the centreline of the table as he returns the ball. The umpire should",
     "options": [
-      "Loss of point.",
-      "Play continues, provided they don't move the table.",
-      "Warning.",
-      "Let."
+      "award a point to A/B as X fails to maintain minimum contact with the seat of his wheelchair",
+      "do nothing and let the rally continue",
+      "award a point to X/Y as B should be the one to return the ball from X",
+      "award a point to X/Y as A's wheelchair crossed the imaginary extension of the centreline"
     ],
-    "correct": "Play continues, provided they don't move the table.",
-    "note": "Rule 2.10.1.11: Only the free hand touching the surface results in a point loss."
+    "correct": "award a point to X/Y as A's wheelchair crossed the imaginary extension of the centreline",
+    "note": "Rule 2.10.1.15: A point is scored if any part of the wheelchair or a foot of a standing player of the opposing pair crosses an imaginary extension of the centre line. HMO Appendix F."
   },
   {
     "id": 88,
-    "text": "Can a player lean on the table during a rally?",
+    "text": "In a wheelchair singles match between A and X, A lifts his body from his wheelchair such that neither of his thighs make contact with the wheelchair seat after making a good return to a wide ball. X fails to make a good return. The umpire should award a",
     "options": [
-      "Yes.",
-      "No, if it moves the table.",
-      "Only with their racket hand.",
-      "Never."
+      "point to X because A failed to maintain contact with his chair",
+      "point to A because X failed to make a good return as A lifted his thighs off the seat only after striking the ball",
+      "let and warn A to maintain contact with the seat of his chair",
+      "point to A but warn him to maintain contact with the seat of his chair"
     ],
-    "correct": "No, if it moves the table.",
-    "note": "Rule 2.10.1.9."
+    "correct": "point to A because X failed to make a good return as A lifted his thighs off the seat only after striking the ball",
+    "note": "Rule 2.10.1.14.1 / HMO Appendix F / HMO 12.1.6: Minimum contact with the seat with the back of at least one thigh is required when the ball is struck. Here the thighs were lifted after striking the ball."
   },
   {
     "id": 89,
-    "text": "Is it a Let if the receiver is not ready and doesn't try to hit the ball?",
+    "text": "In a singles match of a Para tournament, player A requests an injury break as he is unable to play temporarily due to the nature of his disability. The umpire should",
     "options": [
-      "Yes.",
-      "No.",
-      "Only if they raise their hand.",
-      "Only if the Umpire agrees."
+      "not allow the injury break as the disability was already present at the start of the match",
+      "allow the shortest possible injury break because it is necessary to be more considerate towards a player who is disabled",
+      "call the referee",
+      "not allow the injury break because disabled players are not entitled to request injury breaks"
     ],
-    "correct": "Yes.",
-    "note": "Rule 2.9.1.2: Provided the receiver or partner does not attempt to strike the ball."
+    "correct": "call the referee",
+    "note": "HMO 13.5.4 / Appendix F: If a player with a disability is unable to play temporarily due to his/her disability, the referee may, after consulting a medical classifier or doctor, allow a recovery time of the shortest practical duration, not more than 10 minutes."
   },
   {
     "id": 90,
-    "text": "What is the penalty for a player who receives a second Yellow Card in a match?",
+    "text": "In a doubles match, players A and B are in wheelchairs whilst player X, who is in a wheelchair, partners player Y, a standing para player who uses a walking stick for balance. During a rally, player A's racket hand accidentally touches the playing surface just before he hits the ball back over the net. The umpire should",
     "options": [
-      "Warning.",
-      "One point awarded to the opponent.",
-      "Two points awarded to the opponent.",
-      "Disqualification."
+      "call 'let' because A did not deliberately touch the playing surface with his racket hand",
+      "award a point to X/Y because A's racket hand touched the playing surface before he hit the ball",
+      "take no action and allow the rally to continue",
+      "award a point to X/Y and warn A under PPS because he used his racket hand to support himself as he hit the ball"
     ],
-    "correct": "One point awarded to the opponent.",
-    "note": "Rule 3.5.2.3 (Yellow + Red card)."
+    "correct": "take no action and allow the rally to continue",
+    "note": "Rule 2.10.1.14.2 applies only if both players or pairs are in wheelchairs. Since not all players are in wheelchairs, it does not apply. HMO Appendix F."
   },
   {
     "id": 91,
-    "text": "Who is allowed to sit on the team bench?",
+    "text": "During play, X trips over the moving cable of a mobile TV camera and misses the ball. What should the umpire do?",
     "options": [
-      "Only players.",
-      "Players and coaches/advisers.",
-      "Anyone.",
-      "Only the captain."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "Players and coaches/advisers.",
-    "note": "Team match regulations."
+    "correct": "Declare a let",
+    "note": "Rule 2.9.2.4: Play may be interrupted because the conditions of play are disturbed in a way which could affect the outcome of the rally."
   },
   {
     "id": 92,
-    "text": "If a point is played with a broken ball and no one noticed until after the point, does the score stand?",
+    "text": "In a rally, while trying to make a return, X's run is blocked by a surround and she fails to make the return. X complains to the umpire saying that the playing area is too small. What should the umpire do?",
     "options": [
-      "Yes.",
-      "No.",
-      "Replay.",
-      "Only if the winner agrees."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "Yes.",
-    "note": "Decisions on fact made by the umpire stand once the next point starts."
+    "correct": "Award a point to A (or A/B)",
+    "note": "The size of the playing area is not the umpire's responsibility; it is the same for both players and any complaint should have been made to the referee before the match began."
   },
   {
     "id": 93,
-    "text": "What is the maximum time allowed for a Time-out?",
+    "text": "During a rally, A strikes the ball and the ball touches the court of X, who attempts to return the ball but misses it. When X retrieves the ball, he notices it is broken and hands it to the umpire. What should the umpire do?",
     "options": [
-      "30 seconds",
-      "1 minute",
-      "2 minutes",
-      "90 seconds"
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "1 minute",
-    "note": "Rule 3.4.4.2.1."
+    "correct": "Award a point to A (or A/B)",
+    "note": "FAQ 5.7: After the rally a player cannot claim that the ball was broken in the previous rally."
   },
   {
     "id": 94,
-    "text": "Is music allowed during a match?",
+    "text": "A serves and the ball bounces on his side of the table and touches the net, then X touches the playing surface with his free hand before the ball touches his court. What should the umpire do?",
     "options": [
-      "Yes.",
-      "No, not during play.",
-      "Only during intervals.",
-      "Only if both players agree."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "No, not during play.",
-    "note": "Rule 18.14: Noise/disruption regulations."
+    "correct": "Award a point to A (or A/B)",
+    "note": "Rule 2.10.1.11: A point is scored if an opponent's free hand touches the playing surface."
   },
   {
     "id": 95,
-    "text": "How many spare balls should the Umpire have?",
+    "text": "In doubles, as A serves, B stands in such a position that X, who is to receive, cannot see the ball until just before it is struck. X fails to make a good return. What should the umpire do?",
     "options": [
-      "Minimum of 2.",
-      "Minimum of 6 (a box).",
-      "Depends on tournament level.",
-      "Zero, the Assistant holds the balls."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "Minimum of 6 (a box).",
-    "note": "Rule 6.1.1: Standard box of 6 balls for the umpire/assistant."
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 2.6.4: The ball shall not be hidden from the receiver by the server or his or her doubles partner or by anything they wear or carry."
   },
   {
     "id": 96,
-    "text": "Is it permissible to use pimpled-out rubber without sponge ('Ox')?",
+    "text": "Player A strikes the ball which then bounces close to the net on his opponent's court and the ball bounces high. In an attempt to return the ball X stumbles and his racket falls on the table. He quickly restores his balance by leaning on the playing surface with the hand that just dropped the racket, grabs the racket and manages to return the ball. What should the umpire do?",
     "options": [
-      "Yes.",
-      "No.",
-      "Only on one side.",
-      "Only for defensive play."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "Yes.",
-    "note": "Rule 2.4.3.1."
+    "correct": "Award a point to A (or A/B)",
+    "note": "Rule 2.10.1.11 / 2.5.6: The free hand is the hand not carrying the racket. In this case both hands of player X were free hands."
   },
   {
     "id": 97,
-    "text": "What does a red card shown to a player by the Referee signify?",
+    "text": "In doubles, A receives but then realises that B should have received. To correct the error, he strikes the ball again when X returns it. Y misses A's return. What should the umpire do?",
     "options": [
-      "A 2-point penalty.",
-      "Disqualification from the match or tournament.",
-      "Ejection of the coach.",
-      "Warning for racket replacement."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "Disqualification from the match or tournament.",
-    "note": "Rule 3.5.2.5."
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 2.10.1.12: A point is scored if a doubles opponent strikes the ball out of the sequence established by the first server and first receiver."
   },
   {
     "id": 98,
-    "text": "How should players behave during the Walk-in to the playing area?",
+    "text": "When A serves, the ball hits a finger of his racket hand, then his racket, and then bounces on his court, over the net and on to X's court. What should the umpire do?",
     "options": [
-      "Enter in any order.",
-      "Follow the officials in a specific formation.",
-      "Run to the table for warm-up.",
-      "Wait in the locker room."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "Follow the officials in a specific formation.",
-    "note": "Section: Procedures."
+    "correct": "Take no action",
+    "note": "Rule 2.10.1.7: A point is lost only if the ball is deliberately struck more than once in succession. The double hit was accidental."
   },
   {
     "id": 99,
-    "text": "Who checks the temperature in the playing hall?",
+    "text": "Player A projects the ball high in the air to serve but catches it in his free hand when he sees that it is falling so that he would have to strike it over the table. What should the umpire do?",
     "options": [
-      "The players.",
-      "The Referee or Technical Delegate.",
-      "The spectators.",
-      "The Umpire."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "The Referee or Technical Delegate.",
-    "note": "Venue requirements."
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 2.5.2: The ball is in play from the last moment it is stationary on the palm before being intentionally projected in service. Rule 2.10.1.1: Point if an opponent fails to make a correct service."
   },
   {
     "id": 100,
-    "text": "What is the result if a player strikes the ball with the handle of the racket?",
+    "text": "During a rally a ball struck by X hits the bracket clamping the net assembly to the table on A's side of the table and falls onto the table. A fails to make a good return. What should the umpire do?",
     "options": [
-      "Loss of point.",
-      "The strike is valid.",
-      "Replay.",
-      "Warning."
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
     ],
-    "correct": "The strike is valid.",
-    "note": "Rule 2.5.7: Strike is with the racket (any part of it) or racket hand below the wrist."
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 2.2.1: The net assembly includes the net, its suspension and the supporting posts, including the clamps attaching them to the table. X made a correct return."
+  },
+  {
+    "id": 101,
+    "text": "X has the ball resting freely on the open palm of his stationary free hand. Then he decides that he would like to serve from another position. As he is changing his position, the ball falls to the floor. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Take no action",
+    "note": "Rule 2.5.2: The ball is in play only from the last moment it is stationary on the palm before being intentionally projected in service. The ball was not yet in play, so the rally hadn't started."
+  },
+  {
+    "id": 102,
+    "text": "Player A, when serving the ball in a singles match, mishits it. The ball hits the top edge of the end of the table on his side, rises in the air and then, without crossing the net, lands on the net clamp outside the table, and then bounces over the net and lands on X's court. X was distracted by the service action and does not make a return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Declare a let",
+    "note": "Rule 2.6.3 / 2.9.1.1: The ball touched the server's court, then the net assembly, then the receiver's court; a service touching the net assembly that is otherwise correct is a let."
+  },
+  {
+    "id": 103,
+    "text": "A, a right-handed shake-hand player, in a desperate attempt to reach a ball on his left-hand side, changes his racket to his left hand, holding the racket by the blade and returns the ball by striking it with the racket handle. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Take no action",
+    "note": "Players can change racket hand during the rally, and player A has struck the ball with a legal racket."
+  },
+  {
+    "id": 104,
+    "text": "During a doubles rally, B places her free hand on the table to regain her balance just as A, her partner, strikes the ball. The table was not moved, and X misses her return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 2.10.1.11: A point is scored if an opponent's free hand touches the playing surface. The opponents are both A and B."
+  },
+  {
+    "id": 105,
+    "text": "A catches the ball with his free hand outside the sideline after the ball has travelled across the playing surface on his side without touching the table, but before the ball crosses his end line. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to A (or A/B)",
+    "note": "Rule 2.10.1.4: Point if the ball passes over the player's court without touching it after being struck by an opponent. The ball is out of play as soon as it passes over the court."
+  },
+  {
+    "id": 106,
+    "text": "X makes a good return and then stumbles and drops his racket. To steady himself, he rests the hand with which he had held the racket on the table, without moving it; A's return misses the table. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to A (or A/B)",
+    "note": "Rule 2.10.1.11 / 2.5.6: The free hand is the hand not carrying the racket. In this case both hands of player X were free hands."
+  },
+  {
+    "id": 107,
+    "text": "A returns a drop shot, but as he does, he touches the playing surface with his racket hand without moving the table. X misses his next return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to A (or A/B)",
+    "note": "Touching the playing surface with the racket hand is allowed."
+  },
+  {
+    "id": 108,
+    "text": "In a doubles match, A, a standing athlete, serves to X, who is in a wheelchair because of a disability. The service, which is otherwise good, bounces in X's right half court and then goes off the side of the table. X makes no attempt to return the ball. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to A (or A/B)",
+    "note": "Rule 2.9.1.5.3 (let when the service leaves the receiver's court by a sideline) applies only in singles. In doubles the service was good and X did not make a return."
+  },
+  {
+    "id": 109,
+    "text": "In a singles match X, a standing athlete, serves to A, who is in a wheelchair because of a disability. The serve, which is otherwise good, bounces in A's right half court and then goes off the side of the table. A returns the ball and X misses the subsequent return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Declare a let",
+    "note": "Rule 2.9.1.5.3: In singles, if the receiver is in a wheelchair and the service leaves the receiver's court by either sideline, the rally is a let as soon as the ball crosses the sideline, regardless of what the receiver does afterwards."
+  },
+  {
+    "id": 110,
+    "text": "In doubles, A serves but X catches the ball saying that it bounced on the wrong half-court, although the umpire is sure that it did not. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to A (or A/B)",
+    "note": "Rule 3.3.2.3.6: The umpire is responsible for deciding each rally as a point or a let. It is up to the umpire to decide, not the player."
+  },
+  {
+    "id": 111,
+    "text": "The umpire is sure that the ball returned by A missed the table, but A insists that it hit the top edge of the end of the playing surface and X refuses to comment. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 3.3.2.3.6: The umpire is responsible for deciding each rally as a point or a let. It is up to the umpire to decide, not the player."
+  },
+  {
+    "id": 112,
+    "text": "In a match between player A (attacker) vs player X (defender), player X is far behind the table returning the ball. A plays a drop ball and X runs to the table, touches it with his body, moving the surface just a little but did not move the table from its position. X makes a good return that A fails to reach. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to X (or X/Y)",
+    "note": "HMO 12.1.2: Only lifting, permanent shifting, displacement, or intentional shaking of the tabletop should result in the awarding of a point."
+  },
+  {
+    "id": 113,
+    "text": "In a wheelchair doubles match A serves to X; the service has so much backspin that it touches X's right half court and returns in the direction of the net. X is unable to reach the ball to make a return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Declare a let",
+    "note": "Rule 2.9.1.5.1: If the receiver is in a wheelchair and the service, after touching the receiver's court, returns in the direction of the net, the rally is a let."
+  },
+  {
+    "id": 114,
+    "text": "Just as player X, a Class 2 wheelchair player, is about to return a wide angled shot, one wheel falls off his chair and he fails to make a good return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to A (or A/B)",
+    "note": "Player X has not made a good return; losing a wheel is unfortunate but not a valid reason for not making a return."
+  },
+  {
+    "id": 115,
+    "text": "In a wheelchair singles match, player A stretches forward and makes a strong smash which player X is unable to return. It was observed that the rear part of one of A's thighs was not in contact with his seat as he struck the ball. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to A (or A/B)",
+    "note": "Rule 2.10.1.14.1 / HMO 12.1.6: Contact with the seat by the back of at least one thigh is required when striking. Since one of A's thighs was in contact with his seat, it was a good return."
+  },
+  {
+    "id": 116,
+    "text": "In a doubles match, A and X are standing athletes, whilst their partners, B and Y, are in wheelchairs. During a rally, as B makes a return, A's foot crosses over the imaginary extension of the centre line of the table. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 2.10.1.15: Point if any part of the wheelchair or a foot of a standing player crosses an imaginary extension of the centre line. Each player must stay on their own side of the centre line."
+  },
+  {
+    "id": 117,
+    "text": "In a doubles match, two wheelchair players, A and B are playing against a standing player X and wheelchair player Y. During a rally, player X returns the ball twice in succession. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Take no action",
+    "note": "Rule 2.8.3: In doubles, when at least one player of a pair is in a wheelchair, after the service and the return of service either player of that pair may make returns."
+  },
+  {
+    "id": 118,
+    "text": "In a wheelchair singles match between A and X, A's racket hand touches his side of the table just before he makes a good return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Award a point to X (or X/Y)",
+    "note": "Rule 2.10.1.14.2: In wheelchair matches players are not allowed to touch the table with either hand before striking the ball."
+  },
+  {
+    "id": 119,
+    "text": "Standing Para player A uses a walking stick to maintain his balance while playing. In a singles match against X, as A makes a good return during a rally the walking stick slips on the floor causing A to fall onto the floor. X makes a good return. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Take no action",
+    "note": "The ball is still in play and there is nothing to indicate that A has not subsequently returned the ball."
+  },
+  {
+    "id": 120,
+    "text": "In a wheelchair singles match, A uses the free hand to push onto the wheelchair to get additional leverage and support to return a high ball. What should the umpire do?",
+    "options": [
+      "Award a point to A (or A/B)",
+      "Award a point to X (or X/Y)",
+      "Declare a let",
+      "Take no action"
+    ],
+    "correct": "Take no action",
+    "note": "The ball is still in play and there is nothing to indicate that A has raised his thighs from the chair."
   }
 ]

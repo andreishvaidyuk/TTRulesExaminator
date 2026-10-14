@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "text": "According to the rules, what does it mean to 'strike' the ball?",
+    "options": [
+      "To touch the ball with any part of the body above the waist.",
+      "To touch the ball with the racket held in the hand or with the racket hand below the wrist.",
+      "To touch the ball only with the authorized playing surface of the rubber.",
+      "Any contact with the ball that results in it crossing the net."
+    ],
+    "correct": "To touch the ball with the racket held in the hand or with the racket hand below the wrist.",
+    "note": "Rule 2.5.7: A player strikes the ball if he or she touches it with the racket held in the hand or with the racket hand below the wrist."
+  },
+  {
+    "id": 2,
+    "text": "At what exact moment is the ball considered 'in play'?",
+    "options": [
+      "From the moment the ball is tossed from the hand.",
+      "From the moment the racket strikes the ball during service.",
+      "From the last moment the ball is stationary on the palm of the free hand before being intentionally projected in service.",
+      "From the moment the ball touches the server's side of the table."
+    ],
+    "correct": "From the last moment the ball is stationary on the palm of the free hand before being intentionally projected in service.",
+    "note": "Rule 2.5.2: The ball is in play from the last moment at which it is stationary on the palm of the free hand before being intentionally projected in service."
+  },
+  {
+    "id": 3,
+    "text": "If the ball accidentally rolls off the server's palm before they attempt to toss it, is a point awarded to the opponent?",
+    "options": [
+      "Yes, it is a service failure.",
+      "No, as the ball was not yet 'in play'.",
+      "A 'Let' is declared.",
+      "The server receives a formal warning."
+    ],
+    "correct": "No, as the ball was not yet 'in play'.",
+    "note": "Rule 10.2: The ball is not in play until the intentional toss begins."
+  },
+  {
+    "id": 4,
+    "text": "What is defined as an 'obstruction'?",
+    "options": [
+      "When a player touches the net during a rally.",
+      "When a player, or anything he or she wears or carries, touches the ball in play when it is above or travelling towards the playing surface, not having touched his or her court since last being struck by the opponent.",
+      "When a player shouts during a point.",
+      "When the ball touches the ceiling."
+    ],
+    "correct": "When a player, or anything he or she wears or carries, touches the ball in play when it is above or travelling towards the playing surface, not having touched his or her court since last being struck by the opponent.",
+    "note": "Rule 2.5.8: Definition of obstruction."
+  },
+  {
+    "id": 5,
+    "text": "What is the standard height of the net above the playing surface?",
+    "options": [
+      "15 cm",
+      "15.25 cm",
+      "16 cm",
+      "17.25 cm"
+    ],
+    "correct": "15.25 cm",
+    "note": "Rule 2.2.3: The top of the net, along its whole length, shall be 15.25cm above the playing surface."
+  },
+  {
+    "id": 6,
+    "text": "What is the minimum height the ball must be tossed during service?",
+    "options": [
+      "10 cm",
+      "16 cm",
+      "20 cm",
+      "Any height"
+    ],
+    "correct": "16 cm",
+    "note": "Rule 10.3: The ball shall be tossed at least 16cm high."
+  },
+  {
+    "id": 7,
+    "text": "Can a player use a racket that is slightly smaller than the standard size?",
+    "options": [
+      "No, the size is strictly fixed.",
+      "Yes, the racket may be of any size, shape or weight.",
+      "Only for children's competitions.",
+      "Only if the opponent agrees."
+    ],
+    "correct": "Yes, the racket may be of any size, shape or weight.",
+    "note": "Rule 2.4.1: The racket may be of any size, shape or weight but the blade shall be flat and rigid."
+  },
+  {
+    "id": 8,
+    "text": "At least what percentage of the blade thickness must be of natural wood?",
+    "options": [
+      "50%",
+      "75%",
+      "85%",
+      "100%"
+    ],
+    "correct": "85%",
+    "note": "Rule 2.4.2: At least 85% of the blade by thickness shall be of natural wood."
+  },
+  {
+    "id": 9,
+    "text": "Is it allowed to strike the ball with the side of the racket blade that is not covered with rubber?",
+    "options": [
+      "Yes, if it's natural wood.",
+      "No, the ball must be struck only with the playing surface.",
+      "Yes, but only in defensive play.",
+      "Only if the rubber fell off during the point."
+    ],
+    "correct": "No, the ball must be struck only with the playing surface.",
+    "note": "Rule 2.4.5: A side of the blade used for striking the ball shall be covered with authorized rubber."
+  },
+  {
+    "id": 10,
+    "text": "What color must the racket surfaces be?",
+    "options": [
+      "Both must be red.",
+      "One side must be black and the other must be a bright color clearly distinguishable from black and the color of the ball.",
+      "Both must be black.",
+      "Any color as long as they are different."
+    ],
+    "correct": "One side must be black and the other must be a bright color clearly distinguishable from black and the color of the ball.",
+    "note": "Rule 2.4.6: One side shall be black and the other shall be bright red (or other approved bright colors)."
+  },
+  {
+    "id": 11,
+    "text": "During service, where must the ball be located relative to the table surface?",
+    "options": [
+      "Below the table level.",
+      "Above the level of the playing surface.",
+      "At the same level as the net.",
+      "It doesn't matter."
+    ],
+    "correct": "Above the level of the playing surface.",
+    "note": "Rule 10.4: From the start of service until it is struck, the ball shall be above the level of the playing surface."
+  },
+  {
+    "id": 12,
+    "text": "During service, where must the ball be relative to the server's end line?",
+    "options": [
+      "Behind the end line.",
+      "In front of the end line.",
+      "Exactly on the end line.",
+      "It can be anywhere."
+    ],
+    "correct": "Behind the end line.",
+    "note": "Rule 10.4: The ball shall be behind the server's end line."
+  },
+  {
+    "id": 13,
+    "text": "When is a 'Let' declared during service?",
+    "options": [
+      "If the ball touches the net and then touches the opponent's court.",
+      "If the ball touches the net and falls out of bounds.",
+      "If the ball hits the opponent's paddle.",
+      "If the server misses the ball completely."
+    ],
+    "correct": "If the ball touches the net and then touches the opponent's court.",
+    "note": "Rule 2.9.1.1: If in service the ball touches the net assembly, provided the service is otherwise correct."
+  },
+  {
+    "id": 14,
+    "text": "In doubles, who must serve first in each game after the first?",
+    "options": [
+      "The same person who served first in the previous game.",
+      "The player who was receiving from the first server in the previous game.",
+      "The captain of the team decides.",
+      "The player with the highest ranking."
+    ],
+    "correct": "The player who was receiving from the first server in the previous game.",
+    "note": "Rule 2.13.5: In each game of a doubles match, the first server shall be the player who received from the first server in the preceding game."
+  },
+  {
+    "id": 15,
+    "text": "When does the 'Expedite System' come into effect?",
+    "options": [
+      "After 10 minutes of play in a game, unless both players have scored at least 9 points.",
+      "After 15 minutes of play.",
+      "If the umpire decides the play is too slow.",
+      "At the request of the spectators."
+    ],
+    "correct": "After 10 minutes of play in a game, unless both players have scored at least 9 points.",
+    "note": "Rule 2.15.1: The expedite system shall come into operation after 10 minutes' play or at any time when requested by both players or pairs."
+  },
+  {
+    "id": 16,
+    "text": "Under the Expedite System, how many successful returns must the receiver make to win the point?",
+    "options": [
+      "10",
+      "12",
+      "13",
+      "15"
+    ],
+    "correct": "13",
+    "note": "Rule 2.15.4: If the receiver makes 13 good returns, the server loses the point."
+  },
+  {
+    "id": 17,
+    "text": "Is a player allowed to touch the playing surface with their free hand during a rally?",
+    "options": [
+      "Yes.",
+      "No, they lose the point.",
+      "Only if they don't move the table.",
+      "Only if they are falling."
+    ],
+    "correct": "No, they lose the point.",
+    "note": "Rule 2.10.1.11: A point is awarded if a player's free hand touches the playing surface."
+  },
+  {
+    "id": 18,
+    "text": "What happens if the ball touches a player's shirt during a rally?",
+    "options": [
+      "Play continues.",
+      "The player loses the point.",
+      "It's a Let.",
+      "The opponent receives a warning."
+    ],
+    "correct": "The player loses the point.",
+    "note": "Rule 2.10.1.5: If a player, or anything he wears or carries, touches the ball in play (obstruction)."
+  },
+  {
+    "id": 19,
+    "text": "What is the diameter of a standard table tennis ball?",
+    "options": [
+      "38 mm",
+      "40 mm",
+      "42 mm",
+      "44 mm"
+    ],
+    "correct": "40 mm",
+    "note": "Rule 2.3.1: The ball shall be spherical, with a diameter of 40mm."
+  },
+  {
+    "id": 20,
+    "text": "What is the weight of a standard table tennis ball?",
+    "options": [
+      "2.5 g",
+      "2.7 g",
+      "3.0 g",
+      "2.9 g"
+    ],
+    "correct": "2.7 g",
+    "note": "Rule 2.3.2: The ball shall weigh 2.7g."
+  },
+  {
+    "id": 21,
+    "text": "What is the required length of the table?",
+    "options": [
+      "2.5 m",
+      "2.74 m",
+      "3.0 m",
+      "2.8 m"
+    ],
+    "correct": "2.74 m",
+    "note": "Rule 2.1.1: The playing surface shall be rectangular, 2.74m long."
+  },
+  {
+    "id": 22,
+    "text": "What is the required width of the table?",
+    "options": [
+      "1.5 m",
+      "1.525 m",
+      "1.6 m",
+      "1.45 m"
+    ],
+    "correct": "1.525 m",
+    "note": "Rule 2.1.1: The playing surface shall be 1.525m wide."
+  },
+  {
+    "id": 23,
+    "text": "What height must the playing surface be above the floor?",
+    "options": [
+      "70 cm",
+      "76 cm",
+      "80 cm",
+      "75 cm"
+    ],
+    "correct": "76 cm",
+    "note": "Rule 2.1.1: The playing surface shall lie in a horizontal plane 76cm above the floor."
+  },
+  {
+    "id": 24,
+    "text": "In doubles, where must the serve land?",
+    "options": [
+      "Anywhere on the opponent's side.",
+      "Only in the receiver's right half-court.",
+      "Only in the receiver's left half-court.",
+      "It must hit the center line."
+    ],
+    "correct": "Only in the receiver's right half-court.",
+    "note": "Rule 2.6.3: In doubles, the ball shall touch successively the right half court of server and receiver."
+  },
+  {
+    "id": 25,
+    "text": "How many points are needed to win a standard game?",
+    "options": [
+      "11 (with a 2-point lead)",
+      "15",
+      "21",
+      "10"
+    ],
+    "correct": "11 (with a 2-point lead)",
+    "note": "Rule 2.11.1: A game shall be won by the player or pair first scoring 11 points unless both score 10 points."
+  },
+  {
+    "id": 26,
+    "text": "How many serves does each player take before switching?",
+    "options": [
+      "5 serves",
+      "2 serves",
+      "1 serve",
+      "Depends on the score"
+    ],
+    "correct": "2 serves",
+    "note": "Rule 2.13.3: After each 2 points have been scored the receiving player or pair shall become the serving player or pair."
+  },
+  {
+    "id": 27,
+    "text": "What happens if the score reaches 10-10?",
+    "options": [
+      "Players switch service every 1 point.",
+      "Players switch service every 2 points.",
+      "The game ends at 11.",
+      "The game ends at 15."
+    ],
+    "correct": "Players switch service every 1 point.",
+    "note": "Rule 2.13.3: If both players score 10 points, the sequences of serving and receiving shall be the same but each player shall serve for only 1 point in turn."
+  },
+  {
+    "id": 28,
+    "text": "Who chooses the initial order of serving, receiving, and ends?",
+    "options": [
+      "The Umpire.",
+      "The winner of a lot (toss).",
+      "The higher-ranked player.",
+      "The home team."
+    ],
+    "correct": "The winner of a lot (toss).",
+    "note": "Rule 2.13.1: The right to choose the initial order of serving, receiving and ends shall be decided by lot."
+  },
+  {
+    "id": 29,
+    "text": "In the last game of a match, when do players switch ends?",
+    "options": [
+      "They don't switch.",
+      "When one player scores 5 points.",
+      "When one player scores 6 points.",
+      "Every 2 points."
+    ],
+    "correct": "When one player scores 5 points.",
+    "note": "Rule 2.14.2: In the last possible game of a match, the players shall change ends when first 5 points are scored by one player or pair."
+  },
+  {
+    "id": 30,
+    "text": "What is the Umpire's primary duty?",
+    "options": [
+      "To coach the players.",
+      "To control the match and decide each rally.",
+      "To clean the floor.",
+      "To sell tickets."
+    ],
+    "correct": "To control the match and decide each rally.",
+    "note": "Rule 3.3.2: The umpire shall be appointed to control each match."
+  },
+  {
+    "id": 31,
+    "text": "Who is responsible for the overall conduct of a tournament?",
+    "options": [
+      "The Umpire.",
+      "The Referee.",
+      "The Assistant Umpire.",
+      "The Captain."
+    ],
+    "correct": "The Referee.",
+    "note": "Rule 3.3.1: For a whole competition, a referee shall be appointed."
+  },
+  {
+    "id": 32,
+    "text": "Is a player allowed to change their racket during a match?",
+    "options": [
+      "Yes, anytime.",
+      "No, unless it is accidentally damaged and cannot be used.",
+      "Only between games.",
+      "Only if the opponent agrees."
+    ],
+    "correct": "No, unless it is accidentally damaged and cannot be used.",
+    "note": "Rule 3.4.2.2: A racket shall not be replaced during a match unless it is accidentally damaged so badly that it cannot be used."
+  },
+  {
+    "id": 33,
+    "text": "How long is the permitted warm-up period on the match table?",
+    "options": [
+      "1 minute",
+      "2 minutes",
+      "5 minutes",
+      "10 minutes"
+    ],
+    "correct": "2 minutes",
+    "note": "Rule 3.4.4.1: Players are entitled to practice on the match table for up to 2 minutes immediately before the start of a match."
+  },
+  {
+    "id": 34,
+    "text": "How long is the interval between games?",
+    "options": [
+      "Up to 30 seconds.",
+      "Up to 1 minute.",
+      "Up to 2 minutes.",
+      "5 minutes."
+    ],
+    "correct": "Up to 1 minute.",
+    "note": "Rule 3.4.4.1.2: Play shall be continuous throughout a match, except that any player is entitled to an interval of up to 1 minute between successive games."
+  },
+  {
+    "id": 35,
+    "text": "How many 'time-outs' is each player or pair allowed per match?",
+    "options": [
+      "One",
+      "Two",
+      "None",
+      "One per game"
+    ],
+    "correct": "One",
+    "note": "Rule 3.4.4.2.1: Each player or pair may claim 1 time-out period of up to 1 minute during a match."
+  },
+  {
+    "id": 36,
+    "text": "What is the penalty for a first instance of misbehaviour (e.g., racket throwing)?",
+    "options": [
+      "Immediate disqualification.",
+      "Formal warning (Yellow Card).",
+      "Loss of a point.",
+      "Loss of 2 points."
+    ],
+    "correct": "Formal warning (Yellow Card).",
+    "note": "Rule 3.5.2.2: For a first offence, the umpire shall exhibit a yellow card and warn the offender."
+  },
+  {
+    "id": 37,
+    "text": "What happens if a warned player misbehaves a second time in the same match?",
+    "options": [
+      "Another yellow card.",
+      "The umpire awards 1 point to the opponent (Yellow + Red card).",
+      "The umpire awards 2 points to the opponent.",
+      "The match is terminated."
+    ],
+    "correct": "The umpire awards 1 point to the opponent (Yellow + Red card).",
+    "note": "Rule 3.5.2.3: If the offender commits a second offence, the umpire shall award 1 point to the offender's opponent."
+  },
+  {
+    "id": 38,
+    "text": "When is coaching allowed during a match?",
+    "options": [
+      "Only during intervals between games.",
+      "Only during time-outs.",
+      "Between rallies, provided it does not delay play.",
+      "It is never allowed."
+    ],
+    "correct": "Between rallies, provided it does not delay play.",
+    "note": "Rule 3.5.1.3: Players may receive coaching between rallies or during authorized intervals."
+  },
+  {
+    "id": 39,
+    "text": "What is the minimum lighting requirement for World/Olympic competitions?",
+    "options": [
+      "600 lux",
+      "1000 lux",
+      "1500 lux",
+      "800 lux"
+    ],
+    "correct": "1000 lux",
+    "note": "Rule 3.2.3.4: The light intensity shall be at least 1000 lux over the playing surface."
+  },
+  {
+    "id": 40,
+    "text": "What is the required floor space for a World Championship match?",
+    "options": [
+      "10m x 5m",
+      "12m x 6m",
+      "14m x 7m",
+      "9m x 4.5m"
+    ],
+    "correct": "14m x 7m",
+    "note": "Rule 3.2.3.1: The playing space shall be rectangular, not less than 14m long, 7m wide."
+  },
+  {
+    "id": 41,
+    "text": "What color must the ball be?",
+    "options": [
+      "White or orange, matt.",
+      "Yellow.",
+      "Any color.",
+      "White only."
+    ],
+    "correct": "White or orange, matt.",
+    "note": "Rule 2.3.3: The ball shall be white or orange, and matt."
+  },
+  {
+    "id": 42,
+    "text": "Can a player use a racket with a handle made of metal?",
+    "options": [
+      "Yes.",
+      "No, only wood.",
+      "Only if it's covered by grip tape.",
+      "Only in amateur matches."
+    ],
+    "correct": "Yes.",
+    "note": "Rule 2.4.1: Racket size/weight/shape is not limited; only the blade rigidity and flatness are specified."
+  },
+  {
+    "id": 43,
+    "text": "Is 'pimpled rubber' without sponge allowed?",
+    "options": [
+      "No.",
+      "Yes, if the thickness (including adhesive) does not exceed 2.0 mm.",
+      "Only if it's red.",
+      "Only on the backhand."
+    ],
+    "correct": "Yes, if the thickness (including adhesive) does not exceed 2.0 mm.",
+    "note": "Rule 2.4.3.1: Ordinary pimpled rubber shall not exceed 2.0mm."
+  },
+  {
+    "id": 44,
+    "text": "What is the maximum thickness for 'sandwich rubber' (rubber + sponge)?",
+    "options": [
+      "2.0 mm",
+      "3.0 mm",
+      "4.0 mm",
+      "5.0 mm"
+    ],
+    "correct": "4.0 mm",
+    "note": "Rule 2.4.3.2: Sandwich rubber shall not exceed 4.0mm."
+  },
+  {
+    "id": 45,
+    "text": "What happens if a player touches the net with their racket while the ball is in play?",
+    "options": [
+      "Nothing, play continues.",
+      "The player loses the point.",
+      "The point is replayed.",
+      "A warning is given."
+    ],
+    "correct": "The player loses the point.",
+    "note": "Rule 2.10.1.10: If a player, or anything he wears or carries, touches the net assembly."
+  },
+  {
+    "id": 46,
+    "text": "What is the 'end line' of the table?",
+    "options": [
+      "The line on the side of the table.",
+      "The line at the back of the table, extending indefinitely in both directions.",
+      "The center line.",
+      "The net."
+    ],
+    "correct": "The line at the back of the table, extending indefinitely in both directions.",
+    "note": "Rule 2.5.15: The end line shall be regarded as extending indefinitely in both directions."
+  },
+  {
+    "id": 47,
+    "text": "If a player moves the playing surface during a rally, what is the result?",
+    "options": [
+      "Loss of point.",
+      "Point is replayed.",
+      "The opponent gets a warning.",
+      "Play continues if the ball didn't touch the table."
+    ],
+    "correct": "Loss of point.",
+    "note": "Rule 2.10.1.9: If a player's opponent moves the playing surface."
+  },
+  {
+    "id": 48,
+    "text": "In a match consisting of 5 games, how many games must a player win to win the match?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": "3",
+    "note": "Standard 'Best of 5' format."
+  },
+  {
+    "id": 49,
+    "text": "Can a player hold the racket with both hands during a strike?",
+    "options": [
+      "Yes.",
+      "No.",
+      "Only for the backhand.",
+      "Only if they have a medical certificate."
+    ],
+    "correct": "Yes.",
+    "note": "Rules do not prohibit using both hands to hold the racket."
+  },
+  {
+    "id": 50,
+    "text": "If a server misses the ball completely during a service attempt, what is the result?",
+    "options": [
+      "The server can try again.",
+      "Loss of point.",
+      "Let.",
+      "Warning."
+    ],
+    "correct": "Loss of point.",
+    "note": "Rule 10.2 / 2.10.1.1: Once the ball is in play, failing to make a good service results in a point for the opponent."
+  },
+  {
+    "id": 51,
+    "text": "What happens if a player's racket breaks during a rally?",
+    "options": [
+      "The point is immediately stopped and replayed.",
+      "The point continues until finished.",
+      "The player loses the point.",
+      "The player can switch rackets immediately."
+    ],
+    "correct": "The point continues until finished.",
+    "note": "Rule 3.4.2.2: Racket replacement only after the rally or game."
+  },
+  {
+    "id": 52,
+    "text": "Are players allowed to use towels during a game?",
+    "options": [
+      "Never.",
+      "Only after every 6 points scored and at game changes.",
+      "Whenever they want.",
+      "Only at the end of the game."
+    ],
+    "correct": "Only after every 6 points scored and at game changes.",
+    "note": "Rule 3.4.4.1.1: Brief intervals for towelling after every 6 points."
+  },
+  {
+    "id": 53,
+    "text": "What color must the floor be in the playing area?",
+    "options": [
+      "Any color.",
+      "Light and reflective.",
+      "Dark and non-reflective.",
+      "Green only."
+    ],
+    "correct": "Dark and non-reflective.",
+    "note": "Rule 3.2.3.2: The floor shall be non-reflective and dark."
+  },
+  {
+    "id": 54,
+    "text": "Who decides if a match is to be suspended due to an injury?",
+    "options": [
+      "The Umpire.",
+      "The Referee.",
+      "The Player.",
+      "The Doctor."
+    ],
+    "correct": "The Referee.",
+    "note": "Rule 3.4.4.4: The referee may allow a suspension of play of the shortest practical duration (not more than 10 mins)."
+  },
+  {
+    "id": 55,
+    "text": "If a player is bleeding, can they continue to play?",
+    "options": [
+      "Yes.",
+      "No, play must be suspended immediately until the bleeding is stopped and the area cleaned.",
+      "Only if the opponent doesn't mind.",
+      "If they wear a bandage."
+    ],
+    "correct": "No, play must be suspended immediately until the bleeding is stopped and the area cleaned.",
+    "note": "Safety/Hygiene regulations."
+  },
+  {
+    "id": 56,
+    "text": "Is the net assembly considered part of the table?",
+    "options": [
+      "No.",
+      "Yes.",
+      "Only the net itself.",
+      "Only the posts."
+    ],
+    "correct": "Yes.",
+    "note": "Rule 2.2.1: The net assembly includes the net, its suspension, and the supporting posts."
+  },
+  {
+    "id": 57,
+    "text": "If a ball strikes the side of the table (below the edge), is it considered in?",
+    "options": [
+      "Yes.",
+      "No.",
+      "Replay.",
+      "Only if it bounces high."
+    ],
+    "correct": "No.",
+    "note": "Rule 2.1.2: The playing surface does not include the vertical sides of the tabletop."
+  },
+  {
+    "id": 58,
+    "text": "What is the result if a player strikes the ball twice consecutively?",
+    "options": [
+      "Play continues.",
+      "Loss of point.",
+      "Let.",
+      "Point only if it was unintentional."
+    ],
+    "correct": "Loss of point.",
+    "note": "Rule 2.10.1.6: A point is awarded if an opponent deliberately strikes the ball twice in succession."
+  },
+  {
+    "id": 59,
+    "text": "Can a player wear a white shirt during a match with a white ball?",
+    "options": [
+      "Yes.",
+      "No, the main color of a garment shall be clearly different from that of the ball in use.",
+      "Only if it has a logo.",
+      "Only in warm-ups."
+    ],
+    "correct": "No, the main color of a garment shall be clearly different from that of the ball in use.",
+    "note": "Rule 3.2.2.2."
+  },
+  {
+    "id": 60,
+    "text": "In a team match, how many players are usually on each team in the Swaythling Cup format?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": "3",
+    "note": "World Team Championship format."
+  },
+  {
+    "id": 61,
+    "text": "What happens if the umpire's decision is challenged by a player on a point of fact?",
+    "options": [
+      "The Referee is called.",
+      "The Umpire's decision is final.",
+      "The point is replayed.",
+      "The crowd decides."
+    ],
+    "correct": "The Umpire's decision is final.",
+    "note": "Rule 3.3.3.1: No appeal shall be made to the referee on a question of fact."
+  },
+  {
+    "id": 62,
+    "text": "What happens if a player disagrees with the Umpire on an interpretation of the rules?",
+    "options": [
+      "The Umpire's decision is final.",
+      "They can appeal to the Referee.",
+      "They can stop the match.",
+      "The game is forfeit."
+    ],
+    "correct": "They can appeal to the Referee.",
+    "note": "Rule 3.3.3.2: An appeal may be made to the referee on a question of rule interpretation."
+  },
+  {
+    "id": 63,
+    "text": "What is a 'Let'?",
+    "options": [
+      "A rally, the result of which is not scored.",
+      "A point won by the server.",
+      "A point won by the receiver.",
+      "The end of the game."
+    ],
+    "correct": "A rally, the result of which is not scored.",
+    "note": "Rule 2.5.3."
+  },
+  {
+    "id": 64,
+    "text": "When should the score be called by the Umpire?",
+    "options": [
+      "Immediately after the ball becomes out of play or as soon as towelling is over.",
+      "Before the serve starts.",
+      "At the end of the game only.",
+      "Only when a player asks."
+    ],
+    "correct": "Immediately after the ball becomes out of play or as soon as towelling is over.",
+    "note": "Umpiring procedures."
+  },
+  {
+    "id": 65,
+    "text": "What is the correct way to call the score?",
+    "options": [
+      "Receiver's score first.",
+      "Server's score first.",
+      "Higher score first.",
+      "Alphabetical order."
+    ],
+    "correct": "Server's score first.",
+    "note": "Umpiring procedures."
+  },
+  {
+    "id": 66,
+    "text": "In the deciding game of a match, how many points are scored before ends are changed?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "8"
+    ],
+    "correct": "5",
+    "note": "Rule 2.14.2."
+  },
+  {
+    "id": 67,
+    "text": "What is the penalty for a coach being warned once and then coaching again?",
+    "options": [
+      "Removal from the playing area.",
+      "A yellow card followed by a red card and removal.",
+      "Point penalty for the player.",
+      "Fine."
+    ],
+    "correct": "A yellow card followed by a red card and removal.",
+    "note": "Rule 3.5.1.5."
+  },
+  {
+    "id": 68,
+    "text": "How much of the server's racket must be visible to the receiver during service?",
+    "options": [
+      "All of it.",
+      "None, only the ball must be visible.",
+      "The rules don't mention racket visibility, only the ball.",
+      "The handle."
+    ],
+    "correct": "The rules don't mention racket visibility, only the ball.",
+    "note": "Rule 10.5: Racket visibility is not a requirement; only the ball's visibility is."
+  },
+  {
+    "id": 69,
+    "text": "What is the maximum number of people allowed in the playing area as coaches for a team?",
+    "options": [
+      "1",
+      "2",
+      "As many as the team wants.",
+      "One person or everyone on the team bench."
+    ],
+    "correct": "One person or everyone on the team bench.",
+    "note": "Rule 3.5.1.1: A player/pair may receive coaching from anyone on the bench."
+  },
+  {
+    "id": 70,
+    "text": "If a player shouts 'Come on!' loudly after every point, can the Umpire intervene?",
+    "options": [
+      "No.",
+      "Yes, if it is considered disruptive or unsportsmanlike.",
+      "Only if the opponent complains.",
+      "Only at the end of the set."
+    ],
+    "correct": "Yes, if it is considered disruptive or unsportsmanlike.",
+    "note": "Rule 3.5.2."
+  },
+  {
+    "id": 71,
+    "text": "What is the 'Free Hand'?",
+    "options": [
+      "The hand not carrying the racket.",
+      "The hand used to serve.",
+      "The hand that is not moving.",
+      "The hand that holds the ball."
+    ],
+    "correct": "The hand not carrying the racket.",
+    "note": "Rule 2.5.6."
+  },
+  {
+    "id": 72,
+    "text": "What is the 'Racket Hand'?",
+    "options": [
+      "The hand carrying the racket.",
+      "The dominant hand.",
+      "The hand that hit the last ball.",
+      "The hand wearing a glove."
+    ],
+    "correct": "The hand carrying the racket.",
+    "note": "Rule 2.5.5."
+  },
+  {
+    "id": 73,
+    "text": "If a player accidentally drops their racket during a rally and the ball hits the hand that was holding it, is the strike valid?",
+    "options": [
+      "Yes.",
+      "No, the racket must be held in the hand.",
+      "Only if they pick it up.",
+      "Let."
+    ],
+    "correct": "No, the racket must be held in the hand.",
+    "note": "Rule 2.5.7: Must be touched by the racket held in the hand."
+  },
+  {
+    "id": 74,
+    "text": "What happens if a ball in play hits a towel lying on the floor inside the playing area?",
+    "options": [
+      "Play continues.",
+      "It is a Let.",
+      "Point is lost by the person who put it there.",
+      "The Umpire decides."
+    ],
+    "correct": "It is a Let.",
+    "note": "Usually treated as an external interference if not part of the playing equipment."
+  },
+  {
+    "id": 75,
+    "text": "How many minutes of rest are players allowed between consecutive matches?",
+    "options": [
+      "2 minutes",
+      "5 minutes",
+      "10 minutes",
+      "None"
+    ],
+    "correct": "5 minutes",
+    "note": "Rule 3.4.4.3: A player is entitled to up to 5 minutes between successive matches."
+  },
+  {
+    "id": 76,
+    "text": "Is it allowed to breathe on the ball to clean it or increase friction?",
+    "options": [
+      "Yes.",
+      "No, it is considered illegal surface treatment.",
+      "Only in cold halls.",
+      "Only with Umpire's permission."
+    ],
+    "correct": "Yes.",
+    "note": "Currently not explicitly prohibited by ITTF rules (though local COVID protocols may vary)."
+  },
+  {
+    "id": 77,
+    "text": "Can a player use a damp cloth to clean the racket during a game?",
+    "options": [
+      "Yes, between points.",
+      "No, only between games.",
+      "Only with towel.",
+      "Only with a chemical cleaner."
+    ],
+    "correct": "No, only between games.",
+    "note": "Rule 3.4.2.2: Racket must remain on the table during game intervals; cleaning is usually done between games."
+  },
+  {
+    "id": 78,
+    "text": "Where must the racket be during intervals between games?",
+    "options": [
+      "In the player's bag.",
+      "On the table.",
+      "With the coach.",
+      "It doesn't matter."
+    ],
+    "correct": "On the table.",
+    "note": "Rule 3.4.2.3: The racket shall be left on the table during intervals."
+  },
+  {
+    "id": 79,
+    "text": "In doubles, who can receive the first serve of the game?",
+    "options": [
+      "Only the designated player.",
+      "Either player of the receiving pair.",
+      "The person on the left.",
+      "The captain."
+    ],
+    "correct": "Either player of the receiving pair.",
+    "note": "Rule 2.13.2: The pair having the right to receive first shall decide which partner shall receive first."
+  },
+  {
+    "id": 80,
+    "text": "If the umpire is in doubt about a service, what should they do the first time?",
+    "options": [
+      "Award a point to the opponent.",
+      "Call a Let and warn the server.",
+      "Do nothing.",
+      "Call the Referee."
+    ],
+    "correct": "Call a Let and warn the server.",
+    "note": "Rule 10.6.1: On the first occasion of doubt, the umpire may interrupt play and warn the server."
+  },
+  {
+    "id": 81,
+    "text": "Is a 'Net' serve that goes out of bounds a Let?",
+    "options": [
+      "Yes.",
+      "No, it's a lost point.",
+      "Yes, if it touched the opponent's side first.",
+      "Only in doubles."
+    ],
+    "correct": "No, it's a lost point.",
+    "note": "Rule 2.9.1.1: Let only if the service is otherwise correct."
+  },
+  {
+    "id": 82,
+    "text": "What happens if a player strikes the ball and it hits the opponent's finger?",
+    "options": [
+      "Point to the striker.",
+      "Let.",
+      "Play continues.",
+      "Warning."
+    ],
+    "correct": "Point to the striker.",
+    "note": "Rule 2.10.1.5: If an opponent obstructs the ball."
+  },
+  {
+    "id": 83,
+    "text": "How many sets are in a standard ITTF match?",
+    "options": [
+      "Best of 3, 5, or 7.",
+      "Always 5.",
+      "Always 3.",
+      "Up to 10."
+    ],
+    "correct": "Best of 3, 5, or 7.",
+    "note": "Match structure."
+  },
+  {
+    "id": 84,
+    "text": "Can a player change their racket hand during a point?",
+    "options": [
+      "Yes.",
+      "No.",
+      "Only if they are ambidextrous.",
+      "Only in doubles."
+    ],
+    "correct": "Yes.",
+    "note": "Rule 2.5.5 / 2.5.7: Strike is valid if the racket is held in 'the' hand; doesn't specify which one."
+  },
+  {
+    "id": 85,
+    "text": "What is the maximum height of a post supporting the net?",
+    "options": [
+      "15.25 cm",
+      "16 cm",
+      "17.25 cm",
+      "20 cm"
+    ],
+    "correct": "15.25 cm",
+    "note": "Rule 2.2.3: Posts should not exceed the net height."
+  },
+  {
+    "id": 86,
+    "text": "What happens if a ball breaks during a rally?",
+    "options": [
+      "The point is replayed (Let).",
+      "The point goes to the last person who hit it.",
+      "The point goes to the person who didn't hit it.",
+      "The umpire picks a winner."
+    ],
+    "correct": "The point is replayed (Let).",
+    "note": "Rule 2.9.2.4: Play may be interrupted because the ball is broken."
+  },
+  {
+    "id": 87,
+    "text": "What happens if a player touches the table with their racket hand?",
+    "options": [
+      "Loss of point.",
+      "Play continues, provided they don't move the table.",
+      "Warning.",
+      "Let."
+    ],
+    "correct": "Play continues, provided they don't move the table.",
+    "note": "Rule 2.10.1.11: Only the free hand touching the surface results in a point loss."
+  },
+  {
+    "id": 88,
+    "text": "Can a player lean on the table during a rally?",
+    "options": [
+      "Yes.",
+      "No, if it moves the table.",
+      "Only with their racket hand.",
+      "Never."
+    ],
+    "correct": "No, if it moves the table.",
+    "note": "Rule 2.10.1.9."
+  },
+  {
+    "id": 89,
+    "text": "Is it a Let if the receiver is not ready and doesn't try to hit the ball?",
+    "options": [
+      "Yes.",
+      "No.",
+      "Only if they raise their hand.",
+      "Only if the Umpire agrees."
+    ],
+    "correct": "Yes.",
+    "note": "Rule 2.9.1.2: Provided the receiver or partner does not attempt to strike the ball."
+  },
+  {
+    "id": 90,
+    "text": "What is the penalty for a player who receives a second Yellow Card in a match?",
+    "options": [
+      "Warning.",
+      "One point awarded to the opponent.",
+      "Two points awarded to the opponent.",
+      "Disqualification."
+    ],
+    "correct": "One point awarded to the opponent.",
+    "note": "Rule 3.5.2.3 (Yellow + Red card)."
+  },
+  {
+    "id": 91,
+    "text": "Who is allowed to sit on the team bench?",
+    "options": [
+      "Only players.",
+      "Players and coaches/advisers.",
+      "Anyone.",
+      "Only the captain."
+    ],
+    "correct": "Players and coaches/advisers.",
+    "note": "Team match regulations."
+  },
+  {
+    "id": 92,
+    "text": "If a point is played with a broken ball and no one noticed until after the point, does the score stand?",
+    "options": [
+      "Yes.",
+      "No.",
+      "Replay.",
+      "Only if the winner agrees."
+    ],
+    "correct": "Yes.",
+    "note": "Decisions on fact made by the umpire stand once the next point starts."
+  },
+  {
+    "id": 93,
+    "text": "What is the maximum time allowed for a Time-out?",
+    "options": [
+      "30 seconds",
+      "1 minute",
+      "2 minutes",
+      "90 seconds"
+    ],
+    "correct": "1 minute",
+    "note": "Rule 3.4.4.2.1."
+  },
+  {
+    "id": 94,
+    "text": "Is music allowed during a match?",
+    "options": [
+      "Yes.",
+      "No, not during play.",
+      "Only during intervals.",
+      "Only if both players agree."
+    ],
+    "correct": "No, not during play.",
+    "note": "Rule 18.14: Noise/disruption regulations."
+  },
+  {
+    "id": 95,
+    "text": "How many spare balls should the Umpire have?",
+    "options": [
+      "Minimum of 2.",
+      "Minimum of 6 (a box).",
+      "Depends on tournament level.",
+      "Zero, the Assistant holds the balls."
+    ],
+    "correct": "Minimum of 6 (a box).",
+    "note": "Rule 6.1.1: Standard box of 6 balls for the umpire/assistant."
+  },
+  {
+    "id": 96,
+    "text": "Is it permissible to use pimpled-out rubber without sponge ('Ox')?",
+    "options": [
+      "Yes.",
+      "No.",
+      "Only on one side.",
+      "Only for defensive play."
+    ],
+    "correct": "Yes.",
+    "note": "Rule 2.4.3.1."
+  },
+  {
+    "id": 97,
+    "text": "What does a red card shown to a player by the Referee signify?",
+    "options": [
+      "A 2-point penalty.",
+      "Disqualification from the match or tournament.",
+      "Ejection of the coach.",
+      "Warning for racket replacement."
+    ],
+    "correct": "Disqualification from the match or tournament.",
+    "note": "Rule 3.5.2.5."
+  },
+  {
+    "id": 98,
+    "text": "How should players behave during the Walk-in to the playing area?",
+    "options": [
+      "Enter in any order.",
+      "Follow the officials in a specific formation.",
+      "Run to the table for warm-up.",
+      "Wait in the locker room."
+    ],
+    "correct": "Follow the officials in a specific formation.",
+    "note": "Section: Procedures."
+  },
+  {
+    "id": 99,
+    "text": "Who checks the temperature in the playing hall?",
+    "options": [
+      "The players.",
+      "The Referee or Technical Delegate.",
+      "The spectators.",
+      "The Umpire."
+    ],
+    "correct": "The Referee or Technical Delegate.",
+    "note": "Venue requirements."
+  },
+  {
+    "id": 100,
+    "text": "What is the result if a player strikes the ball with the handle of the racket?",
+    "options": [
+      "Loss of point.",
+      "The strike is valid.",
+      "Replay.",
+      "Warning."
+    ],
+    "correct": "The strike is valid.",
+    "note": "Rule 2.5.7: Strike is with the racket (any part of it) or racket hand below the wrist."
+  }
+]
